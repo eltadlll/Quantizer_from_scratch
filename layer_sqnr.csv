@@ -1,0 +1,1177 @@
+config,layer,kind,sqnr_db,depth
+W8 per-tensor,model.layers.0.self_attn.q_proj,q_proj,27.550023036675707,0
+W8 per-tensor,model.layers.0.self_attn.k_proj,k_proj,30.840416522061894,0
+W8 per-tensor,model.layers.0.self_attn.v_proj,v_proj,32.50986241261515,0
+W8 per-tensor,model.layers.0.self_attn.o_proj,o_proj,20.419448258290313,0
+W8 per-tensor,model.layers.0.mlp.gate_proj,gate_proj,26.317318546188638,0
+W8 per-tensor,model.layers.0.mlp.up_proj,up_proj,29.346587746905296,0
+W8 per-tensor,model.layers.0.mlp.down_proj,down_proj,28.37842721622963,0
+W8 per-tensor,model.layers.1.self_attn.q_proj,q_proj,31.30249092632876,1
+W8 per-tensor,model.layers.1.self_attn.k_proj,k_proj,35.96929605068668,1
+W8 per-tensor,model.layers.1.self_attn.v_proj,v_proj,35.82858456260857,1
+W8 per-tensor,model.layers.1.self_attn.o_proj,o_proj,30.205201306356372,1
+W8 per-tensor,model.layers.1.mlp.gate_proj,gate_proj,27.926131647968212,1
+W8 per-tensor,model.layers.1.mlp.up_proj,up_proj,28.76362191786327,1
+W8 per-tensor,model.layers.1.mlp.down_proj,down_proj,26.44832749379181,1
+W8 per-tensor,model.layers.2.self_attn.q_proj,q_proj,30.206975122885076,2
+W8 per-tensor,model.layers.2.self_attn.k_proj,k_proj,35.90597983068892,2
+W8 per-tensor,model.layers.2.self_attn.v_proj,v_proj,34.2271233961874,2
+W8 per-tensor,model.layers.2.self_attn.o_proj,o_proj,21.87817373877209,2
+W8 per-tensor,model.layers.2.mlp.gate_proj,gate_proj,27.316839667758764,2
+W8 per-tensor,model.layers.2.mlp.up_proj,up_proj,21.56585237933317,2
+W8 per-tensor,model.layers.2.mlp.down_proj,down_proj,24.596030545417534,2
+W8 per-tensor,model.layers.3.self_attn.q_proj,q_proj,31.725990733750876,3
+W8 per-tensor,model.layers.3.self_attn.k_proj,k_proj,36.576757699251836,3
+W8 per-tensor,model.layers.3.self_attn.v_proj,v_proj,38.28593251024199,3
+W8 per-tensor,model.layers.3.self_attn.o_proj,o_proj,27.33445307530625,3
+W8 per-tensor,model.layers.3.mlp.gate_proj,gate_proj,29.975150063792224,3
+W8 per-tensor,model.layers.3.mlp.up_proj,up_proj,27.710779554932277,3
+W8 per-tensor,model.layers.3.mlp.down_proj,down_proj,23.531842484607807,3
+W8 per-tensor,model.layers.4.self_attn.q_proj,q_proj,33.60272765869068,4
+W8 per-tensor,model.layers.4.self_attn.k_proj,k_proj,36.20382808892181,4
+W8 per-tensor,model.layers.4.self_attn.v_proj,v_proj,37.13297344167166,4
+W8 per-tensor,model.layers.4.self_attn.o_proj,o_proj,27.71226387956257,4
+W8 per-tensor,model.layers.4.mlp.gate_proj,gate_proj,27.96679492822241,4
+W8 per-tensor,model.layers.4.mlp.up_proj,up_proj,23.354226964037093,4
+W8 per-tensor,model.layers.4.mlp.down_proj,down_proj,24.396588551215594,4
+W8 per-tensor,model.layers.5.self_attn.q_proj,q_proj,31.660539946809454,5
+W8 per-tensor,model.layers.5.self_attn.k_proj,k_proj,34.560917825498315,5
+W8 per-tensor,model.layers.5.self_attn.v_proj,v_proj,38.66711746881731,5
+W8 per-tensor,model.layers.5.self_attn.o_proj,o_proj,28.414480419331053,5
+W8 per-tensor,model.layers.5.mlp.gate_proj,gate_proj,30.98447868934778,5
+W8 per-tensor,model.layers.5.mlp.up_proj,up_proj,19.620126123135883,5
+W8 per-tensor,model.layers.5.mlp.down_proj,down_proj,22.41729661777448,5
+W8 per-tensor,model.layers.6.self_attn.q_proj,q_proj,28.379135184069042,6
+W8 per-tensor,model.layers.6.self_attn.k_proj,k_proj,36.283389832689636,6
+W8 per-tensor,model.layers.6.self_attn.v_proj,v_proj,38.166136673756256,6
+W8 per-tensor,model.layers.6.self_attn.o_proj,o_proj,25.068088034037544,6
+W8 per-tensor,model.layers.6.mlp.gate_proj,gate_proj,27.698157286008815,6
+W8 per-tensor,model.layers.6.mlp.up_proj,up_proj,26.692885426086445,6
+W8 per-tensor,model.layers.6.mlp.down_proj,down_proj,25.453496237202614,6
+W8 per-tensor,model.layers.7.self_attn.q_proj,q_proj,31.895870132098345,7
+W8 per-tensor,model.layers.7.self_attn.k_proj,k_proj,33.97599585799233,7
+W8 per-tensor,model.layers.7.self_attn.v_proj,v_proj,37.92267849375412,7
+W8 per-tensor,model.layers.7.self_attn.o_proj,o_proj,24.34532371205314,7
+W8 per-tensor,model.layers.7.mlp.gate_proj,gate_proj,29.05700488790021,7
+W8 per-tensor,model.layers.7.mlp.up_proj,up_proj,23.10497675565271,7
+W8 per-tensor,model.layers.7.mlp.down_proj,down_proj,25.559824594903958,7
+W8 per-tensor,model.layers.8.self_attn.q_proj,q_proj,16.797311309380643,8
+W8 per-tensor,model.layers.8.self_attn.k_proj,k_proj,35.915313178547684,8
+W8 per-tensor,model.layers.8.self_attn.v_proj,v_proj,33.781613158193295,8
+W8 per-tensor,model.layers.8.self_attn.o_proj,o_proj,27.0840655587661,8
+W8 per-tensor,model.layers.8.mlp.gate_proj,gate_proj,29.47203663648768,8
+W8 per-tensor,model.layers.8.mlp.up_proj,up_proj,26.45362823240632,8
+W8 per-tensor,model.layers.8.mlp.down_proj,down_proj,27.269015299950947,8
+W8 per-tensor,model.layers.9.self_attn.q_proj,q_proj,32.6957075351636,9
+W8 per-tensor,model.layers.9.self_attn.k_proj,k_proj,32.34352950356643,9
+W8 per-tensor,model.layers.9.self_attn.v_proj,v_proj,37.15087355893673,9
+W8 per-tensor,model.layers.9.self_attn.o_proj,o_proj,24.094193025439615,9
+W8 per-tensor,model.layers.9.mlp.gate_proj,gate_proj,26.051371687396802,9
+W8 per-tensor,model.layers.9.mlp.up_proj,up_proj,25.818238852208744,9
+W8 per-tensor,model.layers.9.mlp.down_proj,down_proj,22.488252619021985,9
+W8 per-tensor,model.layers.10.self_attn.q_proj,q_proj,29.634618729773234,10
+W8 per-tensor,model.layers.10.self_attn.k_proj,k_proj,34.851020822587145,10
+W8 per-tensor,model.layers.10.self_attn.v_proj,v_proj,36.49615590838049,10
+W8 per-tensor,model.layers.10.self_attn.o_proj,o_proj,27.622934974931724,10
+W8 per-tensor,model.layers.10.mlp.gate_proj,gate_proj,23.97465400833191,10
+W8 per-tensor,model.layers.10.mlp.up_proj,up_proj,25.613667093210285,10
+W8 per-tensor,model.layers.10.mlp.down_proj,down_proj,24.69422700593331,10
+W8 per-tensor,model.layers.11.self_attn.q_proj,q_proj,31.587825153601155,11
+W8 per-tensor,model.layers.11.self_attn.k_proj,k_proj,32.78589611866985,11
+W8 per-tensor,model.layers.11.self_attn.v_proj,v_proj,38.13347711425901,11
+W8 per-tensor,model.layers.11.self_attn.o_proj,o_proj,22.46927978528155,11
+W8 per-tensor,model.layers.11.mlp.gate_proj,gate_proj,24.669613180221997,11
+W8 per-tensor,model.layers.11.mlp.up_proj,up_proj,21.551489771326956,11
+W8 per-tensor,model.layers.11.mlp.down_proj,down_proj,22.343436225918825,11
+W8 per-tensor,model.layers.12.self_attn.q_proj,q_proj,31.3073883842439,12
+W8 per-tensor,model.layers.12.self_attn.k_proj,k_proj,34.93446480110625,12
+W8 per-tensor,model.layers.12.self_attn.v_proj,v_proj,35.7112393752668,12
+W8 per-tensor,model.layers.12.self_attn.o_proj,o_proj,27.8816689508875,12
+W8 per-tensor,model.layers.12.mlp.gate_proj,gate_proj,28.325571665716897,12
+W8 per-tensor,model.layers.12.mlp.up_proj,up_proj,26.786291293639152,12
+W8 per-tensor,model.layers.12.mlp.down_proj,down_proj,25.15447528219859,12
+W8 per-tensor,model.layers.13.self_attn.q_proj,q_proj,26.672566786113027,13
+W8 per-tensor,model.layers.13.self_attn.k_proj,k_proj,31.420710546459464,13
+W8 per-tensor,model.layers.13.self_attn.v_proj,v_proj,36.90442632850551,13
+W8 per-tensor,model.layers.13.self_attn.o_proj,o_proj,26.556715662251836,13
+W8 per-tensor,model.layers.13.mlp.gate_proj,gate_proj,25.69710761498044,13
+W8 per-tensor,model.layers.13.mlp.up_proj,up_proj,25.11961392846569,13
+W8 per-tensor,model.layers.13.mlp.down_proj,down_proj,24.146461757755155,13
+W8 per-tensor,model.layers.14.self_attn.q_proj,q_proj,31.388482370700462,14
+W8 per-tensor,model.layers.14.self_attn.k_proj,k_proj,34.45135839585445,14
+W8 per-tensor,model.layers.14.self_attn.v_proj,v_proj,36.55651504831842,14
+W8 per-tensor,model.layers.14.self_attn.o_proj,o_proj,26.563605062721336,14
+W8 per-tensor,model.layers.14.mlp.gate_proj,gate_proj,25.440467961315292,14
+W8 per-tensor,model.layers.14.mlp.up_proj,up_proj,25.095474118025965,14
+W8 per-tensor,model.layers.14.mlp.down_proj,down_proj,25.555178629039638,14
+W8 per-tensor,model.layers.15.self_attn.q_proj,q_proj,32.643407203113114,15
+W8 per-tensor,model.layers.15.self_attn.k_proj,k_proj,35.0559324839807,15
+W8 per-tensor,model.layers.15.self_attn.v_proj,v_proj,36.5934461370738,15
+W8 per-tensor,model.layers.15.self_attn.o_proj,o_proj,26.36184593995331,15
+W8 per-tensor,model.layers.15.mlp.gate_proj,gate_proj,25.225089420687873,15
+W8 per-tensor,model.layers.15.mlp.up_proj,up_proj,21.262953056787136,15
+W8 per-tensor,model.layers.15.mlp.down_proj,down_proj,25.684681475725057,15
+W8 per-tensor,model.layers.16.self_attn.q_proj,q_proj,28.44625969095582,16
+W8 per-tensor,model.layers.16.self_attn.k_proj,k_proj,33.20391751722084,16
+W8 per-tensor,model.layers.16.self_attn.v_proj,v_proj,32.55849892171613,16
+W8 per-tensor,model.layers.16.self_attn.o_proj,o_proj,28.756436937592316,16
+W8 per-tensor,model.layers.16.mlp.gate_proj,gate_proj,26.90040308057323,16
+W8 per-tensor,model.layers.16.mlp.up_proj,up_proj,26.87932325060732,16
+W8 per-tensor,model.layers.16.mlp.down_proj,down_proj,25.103111351257343,16
+W8 per-tensor,model.layers.17.self_attn.q_proj,q_proj,30.988350478389386,17
+W8 per-tensor,model.layers.17.self_attn.k_proj,k_proj,33.490292899099956,17
+W8 per-tensor,model.layers.17.self_attn.v_proj,v_proj,35.22474063721836,17
+W8 per-tensor,model.layers.17.self_attn.o_proj,o_proj,29.640752741498765,17
+W8 per-tensor,model.layers.17.mlp.gate_proj,gate_proj,26.148306163533277,17
+W8 per-tensor,model.layers.17.mlp.up_proj,up_proj,31.040203559902988,17
+W8 per-tensor,model.layers.17.mlp.down_proj,down_proj,26.840067328750145,17
+W8 per-tensor,model.layers.18.self_attn.q_proj,q_proj,27.63089086007028,18
+W8 per-tensor,model.layers.18.self_attn.k_proj,k_proj,32.41156913753866,18
+W8 per-tensor,model.layers.18.self_attn.v_proj,v_proj,39.02769750024301,18
+W8 per-tensor,model.layers.18.self_attn.o_proj,o_proj,30.77333139018267,18
+W8 per-tensor,model.layers.18.mlp.gate_proj,gate_proj,27.37620072804463,18
+W8 per-tensor,model.layers.18.mlp.up_proj,up_proj,28.146361574908386,18
+W8 per-tensor,model.layers.18.mlp.down_proj,down_proj,25.33021199410911,18
+W8 per-tensor,model.layers.19.self_attn.q_proj,q_proj,32.47412165111447,19
+W8 per-tensor,model.layers.19.self_attn.k_proj,k_proj,34.578316980235584,19
+W8 per-tensor,model.layers.19.self_attn.v_proj,v_proj,36.945050926497764,19
+W8 per-tensor,model.layers.19.self_attn.o_proj,o_proj,28.93960187884581,19
+W8 per-tensor,model.layers.19.mlp.gate_proj,gate_proj,24.13866734999049,19
+W8 per-tensor,model.layers.19.mlp.up_proj,up_proj,26.30837277649695,19
+W8 per-tensor,model.layers.19.mlp.down_proj,down_proj,28.46029029431576,19
+W8 per-tensor,model.layers.20.self_attn.q_proj,q_proj,32.827106045612894,20
+W8 per-tensor,model.layers.20.self_attn.k_proj,k_proj,33.701683544445416,20
+W8 per-tensor,model.layers.20.self_attn.v_proj,v_proj,33.403846764755116,20
+W8 per-tensor,model.layers.20.self_attn.o_proj,o_proj,27.84190916530601,20
+W8 per-tensor,model.layers.20.mlp.gate_proj,gate_proj,24.71951842961928,20
+W8 per-tensor,model.layers.20.mlp.up_proj,up_proj,26.105629653814745,20
+W8 per-tensor,model.layers.20.mlp.down_proj,down_proj,27.48719412116587,20
+W8 per-tensor,model.layers.21.self_attn.q_proj,q_proj,32.00871287848485,21
+W8 per-tensor,model.layers.21.self_attn.k_proj,k_proj,33.04332040662756,21
+W8 per-tensor,model.layers.21.self_attn.v_proj,v_proj,32.88573019244866,21
+W8 per-tensor,model.layers.21.self_attn.o_proj,o_proj,29.211112966778305,21
+W8 per-tensor,model.layers.21.mlp.gate_proj,gate_proj,23.894160632626196,21
+W8 per-tensor,model.layers.21.mlp.up_proj,up_proj,21.7642832548349,21
+W8 per-tensor,model.layers.21.mlp.down_proj,down_proj,22.944778077599498,21
+W8 per-tensor,model.layers.22.self_attn.q_proj,q_proj,31.220136345043947,22
+W8 per-tensor,model.layers.22.self_attn.k_proj,k_proj,33.74715427085508,22
+W8 per-tensor,model.layers.22.self_attn.v_proj,v_proj,35.13731359317238,22
+W8 per-tensor,model.layers.22.self_attn.o_proj,o_proj,30.516656705082106,22
+W8 per-tensor,model.layers.22.mlp.gate_proj,gate_proj,21.361216638536117,22
+W8 per-tensor,model.layers.22.mlp.up_proj,up_proj,27.93168332185392,22
+W8 per-tensor,model.layers.22.mlp.down_proj,down_proj,28.42752391145438,22
+W8 per-tensor,model.layers.23.self_attn.q_proj,q_proj,31.87526863116643,23
+W8 per-tensor,model.layers.23.self_attn.k_proj,k_proj,32.00758564180618,23
+W8 per-tensor,model.layers.23.self_attn.v_proj,v_proj,33.10798437447316,23
+W8 per-tensor,model.layers.23.self_attn.o_proj,o_proj,19.74952159003105,23
+W8 per-tensor,model.layers.23.mlp.gate_proj,gate_proj,28.09014573456818,23
+W8 per-tensor,model.layers.23.mlp.up_proj,up_proj,29.7595504004575,23
+W8 per-tensor,model.layers.23.mlp.down_proj,down_proj,23.49442318395421,23
+W8 per-channel,model.layers.0.self_attn.q_proj,q_proj,39.785387360937754,0
+W8 per-channel,model.layers.0.self_attn.k_proj,k_proj,41.74396398527513,0
+W8 per-channel,model.layers.0.self_attn.v_proj,v_proj,40.126833067009485,0
+W8 per-channel,model.layers.0.self_attn.o_proj,o_proj,39.049063591392,0
+W8 per-channel,model.layers.0.mlp.gate_proj,gate_proj,41.45156466958372,0
+W8 per-channel,model.layers.0.mlp.up_proj,up_proj,41.35996742634074,0
+W8 per-channel,model.layers.0.mlp.down_proj,down_proj,38.86258868297801,0
+W8 per-channel,model.layers.1.self_attn.q_proj,q_proj,41.314975529039096,1
+W8 per-channel,model.layers.1.self_attn.k_proj,k_proj,41.5480066827071,1
+W8 per-channel,model.layers.1.self_attn.v_proj,v_proj,39.65633003657778,1
+W8 per-channel,model.layers.1.self_attn.o_proj,o_proj,40.710758481724994,1
+W8 per-channel,model.layers.1.mlp.gate_proj,gate_proj,41.25788895165706,1
+W8 per-channel,model.layers.1.mlp.up_proj,up_proj,41.39548425872534,1
+W8 per-channel,model.layers.1.mlp.down_proj,down_proj,39.41879698782379,1
+W8 per-channel,model.layers.2.self_attn.q_proj,q_proj,40.218879693122645,2
+W8 per-channel,model.layers.2.self_attn.k_proj,k_proj,40.74510379888551,2
+W8 per-channel,model.layers.2.self_attn.v_proj,v_proj,38.71898199159102,2
+W8 per-channel,model.layers.2.self_attn.o_proj,o_proj,39.453426555548134,2
+W8 per-channel,model.layers.2.mlp.gate_proj,gate_proj,41.49036650391249,2
+W8 per-channel,model.layers.2.mlp.up_proj,up_proj,41.33732805885955,2
+W8 per-channel,model.layers.2.mlp.down_proj,down_proj,39.02047627253429,2
+W8 per-channel,model.layers.3.self_attn.q_proj,q_proj,40.44455839941061,3
+W8 per-channel,model.layers.3.self_attn.k_proj,k_proj,41.187195658630344,3
+W8 per-channel,model.layers.3.self_attn.v_proj,v_proj,41.15279692420657,3
+W8 per-channel,model.layers.3.self_attn.o_proj,o_proj,39.829602695545205,3
+W8 per-channel,model.layers.3.mlp.gate_proj,gate_proj,41.39067046654766,3
+W8 per-channel,model.layers.3.mlp.up_proj,up_proj,41.33534765015754,3
+W8 per-channel,model.layers.3.mlp.down_proj,down_proj,39.09147061464756,3
+W8 per-channel,model.layers.4.self_attn.q_proj,q_proj,40.94744727988163,4
+W8 per-channel,model.layers.4.self_attn.k_proj,k_proj,40.93740311868679,4
+W8 per-channel,model.layers.4.self_attn.v_proj,v_proj,40.8470105511872,4
+W8 per-channel,model.layers.4.self_attn.o_proj,o_proj,39.813598463498735,4
+W8 per-channel,model.layers.4.mlp.gate_proj,gate_proj,41.15863673013884,4
+W8 per-channel,model.layers.4.mlp.up_proj,up_proj,40.74252861080927,4
+W8 per-channel,model.layers.4.mlp.down_proj,down_proj,37.797173443792566,4
+W8 per-channel,model.layers.5.self_attn.q_proj,q_proj,40.63453194955281,5
+W8 per-channel,model.layers.5.self_attn.k_proj,k_proj,40.61980465077512,5
+W8 per-channel,model.layers.5.self_attn.v_proj,v_proj,41.238967659831935,5
+W8 per-channel,model.layers.5.self_attn.o_proj,o_proj,40.75210257936175,5
+W8 per-channel,model.layers.5.mlp.gate_proj,gate_proj,41.569757764802674,5
+W8 per-channel,model.layers.5.mlp.up_proj,up_proj,41.248585558080784,5
+W8 per-channel,model.layers.5.mlp.down_proj,down_proj,38.73763600460591,5
+W8 per-channel,model.layers.6.self_attn.q_proj,q_proj,40.650191132539575,6
+W8 per-channel,model.layers.6.self_attn.k_proj,k_proj,40.700574089756685,6
+W8 per-channel,model.layers.6.self_attn.v_proj,v_proj,41.31706306773006,6
+W8 per-channel,model.layers.6.self_attn.o_proj,o_proj,39.934677751785664,6
+W8 per-channel,model.layers.6.mlp.gate_proj,gate_proj,41.06639491849512,6
+W8 per-channel,model.layers.6.mlp.up_proj,up_proj,41.14489411461904,6
+W8 per-channel,model.layers.6.mlp.down_proj,down_proj,38.65358461153627,6
+W8 per-channel,model.layers.7.self_attn.q_proj,q_proj,40.37627500490938,7
+W8 per-channel,model.layers.7.self_attn.k_proj,k_proj,39.82343006054056,7
+W8 per-channel,model.layers.7.self_attn.v_proj,v_proj,41.28210262496434,7
+W8 per-channel,model.layers.7.self_attn.o_proj,o_proj,40.11890831389516,7
+W8 per-channel,model.layers.7.mlp.gate_proj,gate_proj,40.92565479345115,7
+W8 per-channel,model.layers.7.mlp.up_proj,up_proj,40.92057459395953,7
+W8 per-channel,model.layers.7.mlp.down_proj,down_proj,37.20321585998154,7
+W8 per-channel,model.layers.8.self_attn.q_proj,q_proj,39.060570055084575,8
+W8 per-channel,model.layers.8.self_attn.k_proj,k_proj,41.21610734572732,8
+W8 per-channel,model.layers.8.self_attn.v_proj,v_proj,38.738100757141645,8
+W8 per-channel,model.layers.8.self_attn.o_proj,o_proj,39.89858239509677,8
+W8 per-channel,model.layers.8.mlp.gate_proj,gate_proj,41.109814131974225,8
+W8 per-channel,model.layers.8.mlp.up_proj,up_proj,40.98303875776877,8
+W8 per-channel,model.layers.8.mlp.down_proj,down_proj,38.690684549443255,8
+W8 per-channel,model.layers.9.self_attn.q_proj,q_proj,40.60159310175264,9
+W8 per-channel,model.layers.9.self_attn.k_proj,k_proj,39.36938697742699,9
+W8 per-channel,model.layers.9.self_attn.v_proj,v_proj,41.232205018620895,9
+W8 per-channel,model.layers.9.self_attn.o_proj,o_proj,40.06806200155265,9
+W8 per-channel,model.layers.9.mlp.gate_proj,gate_proj,41.006105968987924,9
+W8 per-channel,model.layers.9.mlp.up_proj,up_proj,40.87832088166455,9
+W8 per-channel,model.layers.9.mlp.down_proj,down_proj,37.44697883712745,9
+W8 per-channel,model.layers.10.self_attn.q_proj,q_proj,40.54557671104072,10
+W8 per-channel,model.layers.10.self_attn.k_proj,k_proj,40.69500945294056,10
+W8 per-channel,model.layers.10.self_attn.v_proj,v_proj,40.3199689917254,10
+W8 per-channel,model.layers.10.self_attn.o_proj,o_proj,40.024879314045165,10
+W8 per-channel,model.layers.10.mlp.gate_proj,gate_proj,40.95770293866935,10
+W8 per-channel,model.layers.10.mlp.up_proj,up_proj,40.77611956124771,10
+W8 per-channel,model.layers.10.mlp.down_proj,down_proj,37.38105640143592,10
+W8 per-channel,model.layers.11.self_attn.q_proj,q_proj,40.05507559439296,11
+W8 per-channel,model.layers.11.self_attn.k_proj,k_proj,39.08890823075447,11
+W8 per-channel,model.layers.11.self_attn.v_proj,v_proj,41.02431729850521,11
+W8 per-channel,model.layers.11.self_attn.o_proj,o_proj,39.84789308560374,11
+W8 per-channel,model.layers.11.mlp.gate_proj,gate_proj,40.766429179597296,11
+W8 per-channel,model.layers.11.mlp.up_proj,up_proj,40.44387221342313,11
+W8 per-channel,model.layers.11.mlp.down_proj,down_proj,36.99354676100659,11
+W8 per-channel,model.layers.12.self_attn.q_proj,q_proj,40.753885142853214,12
+W8 per-channel,model.layers.12.self_attn.k_proj,k_proj,40.84814878316884,12
+W8 per-channel,model.layers.12.self_attn.v_proj,v_proj,40.64352629057289,12
+W8 per-channel,model.layers.12.self_attn.o_proj,o_proj,40.28262047678619,12
+W8 per-channel,model.layers.12.mlp.gate_proj,gate_proj,40.802139307645604,12
+W8 per-channel,model.layers.12.mlp.up_proj,up_proj,40.83435731332172,12
+W8 per-channel,model.layers.12.mlp.down_proj,down_proj,38.51455174466401,12
+W8 per-channel,model.layers.13.self_attn.q_proj,q_proj,40.03515313575103,13
+W8 per-channel,model.layers.13.self_attn.k_proj,k_proj,39.56683547256814,13
+W8 per-channel,model.layers.13.self_attn.v_proj,v_proj,41.149449882322884,13
+W8 per-channel,model.layers.13.self_attn.o_proj,o_proj,40.309231200061284,13
+W8 per-channel,model.layers.13.mlp.gate_proj,gate_proj,40.59146833395556,13
+W8 per-channel,model.layers.13.mlp.up_proj,up_proj,40.749759740935794,13
+W8 per-channel,model.layers.13.mlp.down_proj,down_proj,37.43484441888339,13
+W8 per-channel,model.layers.14.self_attn.q_proj,q_proj,40.06315793258636,14
+W8 per-channel,model.layers.14.self_attn.k_proj,k_proj,40.41339606791915,14
+W8 per-channel,model.layers.14.self_attn.v_proj,v_proj,40.23402479922501,14
+W8 per-channel,model.layers.14.self_attn.o_proj,o_proj,40.37895153171966,14
+W8 per-channel,model.layers.14.mlp.gate_proj,gate_proj,40.33807737931676,14
+W8 per-channel,model.layers.14.mlp.up_proj,up_proj,40.747156652027655,14
+W8 per-channel,model.layers.14.mlp.down_proj,down_proj,37.34452410159315,14
+W8 per-channel,model.layers.15.self_attn.q_proj,q_proj,40.424192320286856,15
+W8 per-channel,model.layers.15.self_attn.k_proj,k_proj,41.13380024025041,15
+W8 per-channel,model.layers.15.self_attn.v_proj,v_proj,40.53186298184698,15
+W8 per-channel,model.layers.15.self_attn.o_proj,o_proj,39.84642637488106,15
+W8 per-channel,model.layers.15.mlp.gate_proj,gate_proj,40.34183817799078,15
+W8 per-channel,model.layers.15.mlp.up_proj,up_proj,40.47452663905424,15
+W8 per-channel,model.layers.15.mlp.down_proj,down_proj,37.35041393415868,15
+W8 per-channel,model.layers.16.self_attn.q_proj,q_proj,40.55776155463866,16
+W8 per-channel,model.layers.16.self_attn.k_proj,k_proj,38.88919948350158,16
+W8 per-channel,model.layers.16.self_attn.v_proj,v_proj,36.632281786776524,16
+W8 per-channel,model.layers.16.self_attn.o_proj,o_proj,39.03073983625429,16
+W8 per-channel,model.layers.16.mlp.gate_proj,gate_proj,40.269538021395164,16
+W8 per-channel,model.layers.16.mlp.up_proj,up_proj,40.29932423902852,16
+W8 per-channel,model.layers.16.mlp.down_proj,down_proj,36.55341925804022,16
+W8 per-channel,model.layers.17.self_attn.q_proj,q_proj,40.22163216876053,17
+W8 per-channel,model.layers.17.self_attn.k_proj,k_proj,40.24672420516951,17
+W8 per-channel,model.layers.17.self_attn.v_proj,v_proj,39.58718103905839,17
+W8 per-channel,model.layers.17.self_attn.o_proj,o_proj,40.324015719219105,17
+W8 per-channel,model.layers.17.mlp.gate_proj,gate_proj,40.76063816530904,17
+W8 per-channel,model.layers.17.mlp.up_proj,up_proj,41.337580819686536,17
+W8 per-channel,model.layers.17.mlp.down_proj,down_proj,38.309202021992526,17
+W8 per-channel,model.layers.18.self_attn.q_proj,q_proj,39.414689545926876,18
+W8 per-channel,model.layers.18.self_attn.k_proj,k_proj,38.68317005608325,18
+W8 per-channel,model.layers.18.self_attn.v_proj,v_proj,41.21106165615619,18
+W8 per-channel,model.layers.18.self_attn.o_proj,o_proj,40.712279727270406,18
+W8 per-channel,model.layers.18.mlp.gate_proj,gate_proj,41.22967867234975,18
+W8 per-channel,model.layers.18.mlp.up_proj,up_proj,41.53902961115002,18
+W8 per-channel,model.layers.18.mlp.down_proj,down_proj,38.975052112090275,18
+W8 per-channel,model.layers.19.self_attn.q_proj,q_proj,40.766240871944596,19
+W8 per-channel,model.layers.19.self_attn.k_proj,k_proj,40.37886832320784,19
+W8 per-channel,model.layers.19.self_attn.v_proj,v_proj,41.28715972777932,19
+W8 per-channel,model.layers.19.self_attn.o_proj,o_proj,40.152740041471304,19
+W8 per-channel,model.layers.19.mlp.gate_proj,gate_proj,40.56791530896569,19
+W8 per-channel,model.layers.19.mlp.up_proj,up_proj,40.8948510334391,19
+W8 per-channel,model.layers.19.mlp.down_proj,down_proj,38.04430013063538,19
+W8 per-channel,model.layers.20.self_attn.q_proj,q_proj,40.2164391975126,20
+W8 per-channel,model.layers.20.self_attn.k_proj,k_proj,40.12191022209227,20
+W8 per-channel,model.layers.20.self_attn.v_proj,v_proj,37.005712068602456,20
+W8 per-channel,model.layers.20.self_attn.o_proj,o_proj,39.983999312735115,20
+W8 per-channel,model.layers.20.mlp.gate_proj,gate_proj,40.624322935068555,20
+W8 per-channel,model.layers.20.mlp.up_proj,up_proj,40.905769936940395,20
+W8 per-channel,model.layers.20.mlp.down_proj,down_proj,38.19882896333335,20
+W8 per-channel,model.layers.21.self_attn.q_proj,q_proj,39.790415170412444,21
+W8 per-channel,model.layers.21.self_attn.k_proj,k_proj,39.19087017159176,21
+W8 per-channel,model.layers.21.self_attn.v_proj,v_proj,38.01143999172232,21
+W8 per-channel,model.layers.21.self_attn.o_proj,o_proj,40.5213734456273,21
+W8 per-channel,model.layers.21.mlp.gate_proj,gate_proj,41.19638427753689,21
+W8 per-channel,model.layers.21.mlp.up_proj,up_proj,41.535296671891516,21
+W8 per-channel,model.layers.21.mlp.down_proj,down_proj,38.91712107493187,21
+W8 per-channel,model.layers.22.self_attn.q_proj,q_proj,40.1088141675278,22
+W8 per-channel,model.layers.22.self_attn.k_proj,k_proj,39.33943953660232,22
+W8 per-channel,model.layers.22.self_attn.v_proj,v_proj,38.056481091848696,22
+W8 per-channel,model.layers.22.self_attn.o_proj,o_proj,41.10958970909998,22
+W8 per-channel,model.layers.22.mlp.gate_proj,gate_proj,41.05371481155682,22
+W8 per-channel,model.layers.22.mlp.up_proj,up_proj,41.102414022640055,22
+W8 per-channel,model.layers.22.mlp.down_proj,down_proj,38.91002567230824,22
+W8 per-channel,model.layers.23.self_attn.q_proj,q_proj,40.88707499147371,23
+W8 per-channel,model.layers.23.self_attn.k_proj,k_proj,39.670664552031816,23
+W8 per-channel,model.layers.23.self_attn.v_proj,v_proj,38.8091393922784,23
+W8 per-channel,model.layers.23.self_attn.o_proj,o_proj,37.84634423298391,23
+W8 per-channel,model.layers.23.mlp.gate_proj,gate_proj,41.44339134286089,23
+W8 per-channel,model.layers.23.mlp.up_proj,up_proj,41.594641762216554,23
+W8 per-channel,model.layers.23.mlp.down_proj,down_proj,38.890769948489826,23
+W4 per-tensor,model.layers.0.self_attn.q_proj,q_proj,5.1587396811086395,0
+W4 per-tensor,model.layers.0.self_attn.k_proj,k_proj,7.807177825991167,0
+W4 per-tensor,model.layers.0.self_attn.v_proj,v_proj,8.962609241303804,0
+W4 per-tensor,model.layers.0.self_attn.o_proj,o_proj,1.2575840611728184,0
+W4 per-tensor,model.layers.0.mlp.gate_proj,gate_proj,3.2783954134836364,0
+W4 per-tensor,model.layers.0.mlp.up_proj,up_proj,5.958904169150079,0
+W4 per-tensor,model.layers.0.mlp.down_proj,down_proj,4.0709794298977195,0
+W4 per-tensor,model.layers.1.self_attn.q_proj,q_proj,7.797062693775079,1
+W4 per-tensor,model.layers.1.self_attn.k_proj,k_proj,12.143182676185997,1
+W4 per-tensor,model.layers.1.self_attn.v_proj,v_proj,11.582707301748743,1
+W4 per-tensor,model.layers.1.self_attn.o_proj,o_proj,5.901976010403769,1
+W4 per-tensor,model.layers.1.mlp.gate_proj,gate_proj,4.111547653121248,1
+W4 per-tensor,model.layers.1.mlp.up_proj,up_proj,4.8583351147485185,1
+W4 per-tensor,model.layers.1.mlp.down_proj,down_proj,2.966865065967055,1
+W4 per-tensor,model.layers.2.self_attn.q_proj,q_proj,6.864405145062149,2
+W4 per-tensor,model.layers.2.self_attn.k_proj,k_proj,11.620851495802318,2
+W4 per-tensor,model.layers.2.self_attn.v_proj,v_proj,10.099611229076224,2
+W4 per-tensor,model.layers.2.self_attn.o_proj,o_proj,1.198905398688596,2
+W4 per-tensor,model.layers.2.mlp.gate_proj,gate_proj,3.7634518925296567,2
+W4 per-tensor,model.layers.2.mlp.up_proj,up_proj,0.42177637206988255,2
+W4 per-tensor,model.layers.2.mlp.down_proj,down_proj,1.834436102673782,2
+W4 per-tensor,model.layers.3.self_attn.q_proj,q_proj,8.00961069471966,3
+W4 per-tensor,model.layers.3.self_attn.k_proj,k_proj,12.349136918514485,3
+W4 per-tensor,model.layers.3.self_attn.v_proj,v_proj,14.061251719622996,3
+W4 per-tensor,model.layers.3.self_attn.o_proj,o_proj,4.11123028325963,3
+W4 per-tensor,model.layers.3.mlp.gate_proj,gate_proj,5.714134643992679,3
+W4 per-tensor,model.layers.3.mlp.up_proj,up_proj,3.7360094692131716,3
+W4 per-tensor,model.layers.3.mlp.down_proj,down_proj,1.2720842338219907,3
+W4 per-tensor,model.layers.4.self_attn.q_proj,q_proj,9.18558320600446,4
+W4 per-tensor,model.layers.4.self_attn.k_proj,k_proj,11.787935546055957,4
+W4 per-tensor,model.layers.4.self_attn.v_proj,v_proj,12.775849567426349,4
+W4 per-tensor,model.layers.4.self_attn.o_proj,o_proj,4.3906546010959,4
+W4 per-tensor,model.layers.4.mlp.gate_proj,gate_proj,4.222555231194791,4
+W4 per-tensor,model.layers.4.mlp.up_proj,up_proj,1.249383245417886,4
+W4 per-tensor,model.layers.4.mlp.down_proj,down_proj,1.5425188209229534,4
+W4 per-tensor,model.layers.5.self_attn.q_proj,q_proj,7.601576530407488,5
+W4 per-tensor,model.layers.5.self_attn.k_proj,k_proj,10.233178515972888,5
+W4 per-tensor,model.layers.5.self_attn.v_proj,v_proj,14.347205561489542,5
+W4 per-tensor,model.layers.5.self_attn.o_proj,o_proj,6.003751154093897,5
+W4 per-tensor,model.layers.5.mlp.gate_proj,gate_proj,6.901412038819933,5
+W4 per-tensor,model.layers.5.mlp.up_proj,up_proj,0.46080343782312655,5
+W4 per-tensor,model.layers.5.mlp.down_proj,down_proj,0.7395195881767522,5
+W4 per-tensor,model.layers.6.self_attn.q_proj,q_proj,6.3344445372074905,6
+W4 per-tensor,model.layers.6.self_attn.k_proj,k_proj,11.74728583264951,6
+W4 per-tensor,model.layers.6.self_attn.v_proj,v_proj,13.934999766228117,6
+W4 per-tensor,model.layers.6.self_attn.o_proj,o_proj,2.76163094076165,6
+W4 per-tensor,model.layers.6.mlp.gate_proj,gate_proj,3.959243726821396,6
+W4 per-tensor,model.layers.6.mlp.up_proj,up_proj,2.81394849916575,6
+W4 per-tensor,model.layers.6.mlp.down_proj,down_proj,2.5532435358714527,6
+W4 per-tensor,model.layers.7.self_attn.q_proj,q_proj,7.901419448554307,7
+W4 per-tensor,model.layers.7.self_attn.k_proj,k_proj,10.070053633800107,7
+W4 per-tensor,model.layers.7.self_attn.v_proj,v_proj,13.776840038761778,7
+W4 per-tensor,model.layers.7.self_attn.o_proj,o_proj,2.5802850121559135,7
+W4 per-tensor,model.layers.7.mlp.gate_proj,gate_proj,4.807639515799404,7
+W4 per-tensor,model.layers.7.mlp.up_proj,up_proj,1.251439510377261,7
+W4 per-tensor,model.layers.7.mlp.down_proj,down_proj,2.437601515440554,7
+W4 per-tensor,model.layers.8.self_attn.q_proj,q_proj,0.7044330428978971,8
+W4 per-tensor,model.layers.8.self_attn.k_proj,k_proj,11.445880110411053,8
+W4 per-tensor,model.layers.8.self_attn.v_proj,v_proj,9.696259464482825,8
+W4 per-tensor,model.layers.8.self_attn.o_proj,o_proj,3.692890611959565,8
+W4 per-tensor,model.layers.8.mlp.gate_proj,gate_proj,5.613492775494931,8
+W4 per-tensor,model.layers.8.mlp.up_proj,up_proj,3.2591856180322933,8
+W4 per-tensor,model.layers.8.mlp.down_proj,down_proj,3.4310643392255358,8
+W4 per-tensor,model.layers.9.self_attn.q_proj,q_proj,8.767373348871036,9
+W4 per-tensor,model.layers.9.self_attn.k_proj,k_proj,8.753626135970801,9
+W4 per-tensor,model.layers.9.self_attn.v_proj,v_proj,13.304870456894978,9
+W4 per-tensor,model.layers.9.self_attn.o_proj,o_proj,3.9299932369710486,9
+W4 per-tensor,model.layers.9.mlp.gate_proj,gate_proj,2.710351813146286,9
+W4 per-tensor,model.layers.9.mlp.up_proj,up_proj,2.3386510701032366,9
+W4 per-tensor,model.layers.9.mlp.down_proj,down_proj,1.4613795241192749,9
+W4 per-tensor,model.layers.10.self_attn.q_proj,q_proj,6.25114183961146,10
+W4 per-tensor,model.layers.10.self_attn.k_proj,k_proj,10.726190869900197,10
+W4 per-tensor,model.layers.10.self_attn.v_proj,v_proj,12.881093912534208,10
+W4 per-tensor,model.layers.10.self_attn.o_proj,o_proj,5.443373604026966,10
+W4 per-tensor,model.layers.10.mlp.gate_proj,gate_proj,2.0833002585022915,10
+W4 per-tensor,model.layers.10.mlp.up_proj,up_proj,2.07699642819455,10
+W4 per-tensor,model.layers.10.mlp.down_proj,down_proj,2.070522452134381,10
+W4 per-tensor,model.layers.11.self_attn.q_proj,q_proj,8.018440539613126,11
+W4 per-tensor,model.layers.11.self_attn.k_proj,k_proj,9.135609649054206,11
+W4 per-tensor,model.layers.11.self_attn.v_proj,v_proj,13.86370013091397,11
+W4 per-tensor,model.layers.11.self_attn.o_proj,o_proj,2.7059688242576923,11
+W4 per-tensor,model.layers.11.mlp.gate_proj,gate_proj,2.378654663159931,11
+W4 per-tensor,model.layers.11.mlp.up_proj,up_proj,0.9452062945469165,11
+W4 per-tensor,model.layers.11.mlp.down_proj,down_proj,1.193233395070611,11
+W4 per-tensor,model.layers.12.self_attn.q_proj,q_proj,7.308342455913217,12
+W4 per-tensor,model.layers.12.self_attn.k_proj,k_proj,10.5393933272631,12
+W4 per-tensor,model.layers.12.self_attn.v_proj,v_proj,11.74945197776954,12
+W4 per-tensor,model.layers.12.self_attn.o_proj,o_proj,5.744025638101922,12
+W4 per-tensor,model.layers.12.mlp.gate_proj,gate_proj,4.850531668559687,12
+W4 per-tensor,model.layers.12.mlp.up_proj,up_proj,4.159049284386318,12
+W4 per-tensor,model.layers.12.mlp.down_proj,down_proj,2.527510540697308,12
+W4 per-tensor,model.layers.13.self_attn.q_proj,q_proj,3.9095740053360877,13
+W4 per-tensor,model.layers.13.self_attn.k_proj,k_proj,7.340292377806942,13
+W4 per-tensor,model.layers.13.self_attn.v_proj,v_proj,13.110668684949804,13
+W4 per-tensor,model.layers.13.self_attn.o_proj,o_proj,4.48186899107894,13
+W4 per-tensor,model.layers.13.mlp.gate_proj,gate_proj,2.6512461313356486,13
+W4 per-tensor,model.layers.13.mlp.up_proj,up_proj,2.371119151936797,13
+W4 per-tensor,model.layers.13.mlp.down_proj,down_proj,1.6547051807840207,13
+W4 per-tensor,model.layers.14.self_attn.q_proj,q_proj,7.806336356929164,14
+W4 per-tensor,model.layers.14.self_attn.k_proj,k_proj,10.384542439558613,14
+W4 per-tensor,model.layers.14.self_attn.v_proj,v_proj,12.581106375742984,14
+W4 per-tensor,model.layers.14.self_attn.o_proj,o_proj,4.498018093883608,14
+W4 per-tensor,model.layers.14.mlp.gate_proj,gate_proj,2.396829319269688,14
+W4 per-tensor,model.layers.14.mlp.up_proj,up_proj,2.312705477049348,14
+W4 per-tensor,model.layers.14.mlp.down_proj,down_proj,2.606692870415092,14
+W4 per-tensor,model.layers.15.self_attn.q_proj,q_proj,8.80917464057592,15
+W4 per-tensor,model.layers.15.self_attn.k_proj,k_proj,11.20419929203245,15
+W4 per-tensor,model.layers.15.self_attn.v_proj,v_proj,12.613140541224679,15
+W4 per-tensor,model.layers.15.self_attn.o_proj,o_proj,3.9568802403111007,15
+W4 per-tensor,model.layers.15.mlp.gate_proj,gate_proj,2.40277203098182,15
+W4 per-tensor,model.layers.15.mlp.up_proj,up_proj,0.9181032085708354,15
+W4 per-tensor,model.layers.15.mlp.down_proj,down_proj,2.4782474779427455,15
+W4 per-tensor,model.layers.16.self_attn.q_proj,q_proj,6.980971313434987,16
+W4 per-tensor,model.layers.16.self_attn.k_proj,k_proj,9.347948787534516,16
+W4 per-tensor,model.layers.16.self_attn.v_proj,v_proj,9.139433439866302,16
+W4 per-tensor,model.layers.16.self_attn.o_proj,o_proj,5.040820279802841,16
+W4 per-tensor,model.layers.16.mlp.gate_proj,gate_proj,3.3830076188817566,16
+W4 per-tensor,model.layers.16.mlp.up_proj,up_proj,3.195048591740402,16
+W4 per-tensor,model.layers.16.mlp.down_proj,down_proj,1.9277191751655427,16
+W4 per-tensor,model.layers.17.self_attn.q_proj,q_proj,7.00907889945134,17
+W4 per-tensor,model.layers.17.self_attn.k_proj,k_proj,9.595071821834843,17
+W4 per-tensor,model.layers.17.self_attn.v_proj,v_proj,11.305301571663499,17
+W4 per-tensor,model.layers.17.self_attn.o_proj,o_proj,5.748815717111693,17
+W4 per-tensor,model.layers.17.mlp.gate_proj,gate_proj,3.156712043534956,17
+W4 per-tensor,model.layers.17.mlp.up_proj,up_proj,7.047833836867427,17
+W4 per-tensor,model.layers.17.mlp.down_proj,down_proj,3.679353312275965,17
+W4 per-tensor,model.layers.18.self_attn.q_proj,q_proj,4.031013570624691,18
+W4 per-tensor,model.layers.18.self_attn.k_proj,k_proj,8.412532209307335,18
+W4 per-tensor,model.layers.18.self_attn.v_proj,v_proj,14.546087262078009,18
+W4 per-tensor,model.layers.18.self_attn.o_proj,o_proj,6.665637335180867,18
+W4 per-tensor,model.layers.18.mlp.gate_proj,gate_proj,3.8935518832482083,18
+W4 per-tensor,model.layers.18.mlp.up_proj,up_proj,5.508446548077213,18
+W4 per-tensor,model.layers.18.mlp.down_proj,down_proj,2.478183268153395,18
+W4 per-tensor,model.layers.19.self_attn.q_proj,q_proj,8.354341012779917,19
+W4 per-tensor,model.layers.19.self_attn.k_proj,k_proj,10.811051452082745,19
+W4 per-tensor,model.layers.19.self_attn.v_proj,v_proj,13.562390125109742,19
+W4 per-tensor,model.layers.19.self_attn.o_proj,o_proj,5.6515976193515405,19
+W4 per-tensor,model.layers.19.mlp.gate_proj,gate_proj,2.1944660829968003,19
+W4 per-tensor,model.layers.19.mlp.up_proj,up_proj,3.017457614136136,19
+W4 per-tensor,model.layers.19.mlp.down_proj,down_proj,4.353528747738533,19
+W4 per-tensor,model.layers.20.self_attn.q_proj,q_proj,9.207339407665117,20
+W4 per-tensor,model.layers.20.self_attn.k_proj,k_proj,10.230175148381576,20
+W4 per-tensor,model.layers.20.self_attn.v_proj,v_proj,9.05857322473299,20
+W4 per-tensor,model.layers.20.self_attn.o_proj,o_proj,4.906780921545673,20
+W4 per-tensor,model.layers.20.mlp.gate_proj,gate_proj,1.9272831819145995,20
+W4 per-tensor,model.layers.20.mlp.up_proj,up_proj,2.9521317795414035,20
+W4 per-tensor,model.layers.20.mlp.down_proj,down_proj,3.7403978022495448,20
+W4 per-tensor,model.layers.21.self_attn.q_proj,q_proj,8.283417856370324,21
+W4 per-tensor,model.layers.21.self_attn.k_proj,k_proj,9.285915107962667,21
+W4 per-tensor,model.layers.21.self_attn.v_proj,v_proj,9.324633244293533,21
+W4 per-tensor,model.layers.21.self_attn.o_proj,o_proj,5.402291047253335,21
+W4 per-tensor,model.layers.21.mlp.gate_proj,gate_proj,1.536226046081107,21
+W4 per-tensor,model.layers.21.mlp.up_proj,up_proj,0.4553013326670231,21
+W4 per-tensor,model.layers.21.mlp.down_proj,down_proj,1.1271581987639219,21
+W4 per-tensor,model.layers.22.self_attn.q_proj,q_proj,7.404807494278175,22
+W4 per-tensor,model.layers.22.self_attn.k_proj,k_proj,9.539843787458345,22
+W4 per-tensor,model.layers.22.self_attn.v_proj,v_proj,10.664452831549658,22
+W4 per-tensor,model.layers.22.self_attn.o_proj,o_proj,7.234489841138735,22
+W4 per-tensor,model.layers.22.mlp.gate_proj,gate_proj,0.8751750185016578,22
+W4 per-tensor,model.layers.22.mlp.up_proj,up_proj,4.496655839404404,22
+W4 per-tensor,model.layers.22.mlp.down_proj,down_proj,4.299902988696276,22
+W4 per-tensor,model.layers.23.self_attn.q_proj,q_proj,8.077815507038114,23
+W4 per-tensor,model.layers.23.self_attn.k_proj,k_proj,8.186444526802141,23
+W4 per-tensor,model.layers.23.self_attn.v_proj,v_proj,9.528729458098287,23
+W4 per-tensor,model.layers.23.self_attn.o_proj,o_proj,1.0072414669468512,23
+W4 per-tensor,model.layers.23.mlp.gate_proj,gate_proj,4.176236072444135,23
+W4 per-tensor,model.layers.23.mlp.up_proj,up_proj,6.702370785249991,23
+W4 per-tensor,model.layers.23.mlp.down_proj,down_proj,1.565558703508704,23
+W4 per-channel,model.layers.0.self_attn.q_proj,q_proj,16.26408944410371,0
+W4 per-channel,model.layers.0.self_attn.k_proj,k_proj,17.767358363513715,0
+W4 per-channel,model.layers.0.self_attn.v_proj,v_proj,16.513456155349882,0
+W4 per-channel,model.layers.0.self_attn.o_proj,o_proj,15.411031624295193,0
+W4 per-channel,model.layers.0.mlp.gate_proj,gate_proj,17.549513920776143,0
+W4 per-channel,model.layers.0.mlp.up_proj,up_proj,17.47282374290981,0
+W4 per-channel,model.layers.0.mlp.down_proj,down_proj,15.026629870148415,0
+W4 per-channel,model.layers.1.self_attn.q_proj,q_proj,17.420716591719895,1
+W4 per-channel,model.layers.1.self_attn.k_proj,k_proj,17.58845338297116,1
+W4 per-channel,model.layers.1.self_attn.v_proj,v_proj,15.933005366995449,1
+W4 per-channel,model.layers.1.self_attn.o_proj,o_proj,16.854232835250937,1
+W4 per-channel,model.layers.1.mlp.gate_proj,gate_proj,17.363219574282297,1
+W4 per-channel,model.layers.1.mlp.up_proj,up_proj,17.52018392817558,1
+W4 per-channel,model.layers.1.mlp.down_proj,down_proj,15.556099702043209,1
+W4 per-channel,model.layers.2.self_attn.q_proj,q_proj,16.42549123505068,2
+W4 per-channel,model.layers.2.self_attn.k_proj,k_proj,17.028514457993413,2
+W4 per-channel,model.layers.2.self_attn.v_proj,v_proj,14.946955254847332,2
+W4 per-channel,model.layers.2.self_attn.o_proj,o_proj,15.713464952580921,2
+W4 per-channel,model.layers.2.mlp.gate_proj,gate_proj,17.563127187790304,2
+W4 per-channel,model.layers.2.mlp.up_proj,up_proj,17.444504385032957,2
+W4 per-channel,model.layers.2.mlp.down_proj,down_proj,15.400057652673585,2
+W4 per-channel,model.layers.3.self_attn.q_proj,q_proj,16.67420508712138,3
+W4 per-channel,model.layers.3.self_attn.k_proj,k_proj,17.163576233327706,3
+W4 per-channel,model.layers.3.self_attn.v_proj,v_proj,17.19708315678427,3
+W4 per-channel,model.layers.3.self_attn.o_proj,o_proj,16.027159417938478,3
+W4 per-channel,model.layers.3.mlp.gate_proj,gate_proj,17.50243384069996,3
+W4 per-channel,model.layers.3.mlp.up_proj,up_proj,17.467063205782264,3
+W4 per-channel,model.layers.3.mlp.down_proj,down_proj,15.428541917041944,3
+W4 per-channel,model.layers.4.self_attn.q_proj,q_proj,17.161716235036156,4
+W4 per-channel,model.layers.4.self_attn.k_proj,k_proj,17.034581271846733,4
+W4 per-channel,model.layers.4.self_attn.v_proj,v_proj,16.854711938553773,4
+W4 per-channel,model.layers.4.self_attn.o_proj,o_proj,16.0658273755071,4
+W4 per-channel,model.layers.4.mlp.gate_proj,gate_proj,17.322614872789053,4
+W4 per-channel,model.layers.4.mlp.up_proj,up_proj,17.070416700282053,4
+W4 per-channel,model.layers.4.mlp.down_proj,down_proj,14.332392691035235,4
+W4 per-channel,model.layers.5.self_attn.q_proj,q_proj,16.951014336993172,5
+W4 per-channel,model.layers.5.self_attn.k_proj,k_proj,16.77998628261443,5
+W4 per-channel,model.layers.5.self_attn.v_proj,v_proj,17.233528510955725,5
+W4 per-channel,model.layers.5.self_attn.o_proj,o_proj,16.83462105087397,5
+W4 per-channel,model.layers.5.mlp.gate_proj,gate_proj,17.63139719040125,5
+W4 per-channel,model.layers.5.mlp.up_proj,up_proj,17.447983398372255,5
+W4 per-channel,model.layers.5.mlp.down_proj,down_proj,15.246713020097202,5
+W4 per-channel,model.layers.6.self_attn.q_proj,q_proj,16.89473197860545,6
+W4 per-channel,model.layers.6.self_attn.k_proj,k_proj,16.747084165979864,6
+W4 per-channel,model.layers.6.self_attn.v_proj,v_proj,17.36833951764728,6
+W4 per-channel,model.layers.6.self_attn.o_proj,o_proj,16.16691022481047,6
+W4 per-channel,model.layers.6.mlp.gate_proj,gate_proj,17.277635057739328,6
+W4 per-channel,model.layers.6.mlp.up_proj,up_proj,17.320907748706407,6
+W4 per-channel,model.layers.6.mlp.down_proj,down_proj,14.92937124181407,6
+W4 per-channel,model.layers.7.self_attn.q_proj,q_proj,16.63429258490702,7
+W4 per-channel,model.layers.7.self_attn.k_proj,k_proj,15.984013261299774,7
+W4 per-channel,model.layers.7.self_attn.v_proj,v_proj,17.33720976504956,7
+W4 per-channel,model.layers.7.self_attn.o_proj,o_proj,16.29325102801125,7
+W4 per-channel,model.layers.7.mlp.gate_proj,gate_proj,17.115371925166425,7
+W4 per-channel,model.layers.7.mlp.up_proj,up_proj,17.129324385645198,7
+W4 per-channel,model.layers.7.mlp.down_proj,down_proj,13.664859028532131,7
+W4 per-channel,model.layers.8.self_attn.q_proj,q_proj,16.30386121713727,8
+W4 per-channel,model.layers.8.self_attn.k_proj,k_proj,17.31137160460476,8
+W4 per-channel,model.layers.8.self_attn.v_proj,v_proj,15.071995208335036,8
+W4 per-channel,model.layers.8.self_attn.o_proj,o_proj,16.367860730154128,8
+W4 per-channel,model.layers.8.mlp.gate_proj,gate_proj,17.262160744494587,8
+W4 per-channel,model.layers.8.mlp.up_proj,up_proj,17.1476121426953,8
+W4 per-channel,model.layers.8.mlp.down_proj,down_proj,15.053811397024612,8
+W4 per-channel,model.layers.9.self_attn.q_proj,q_proj,16.816032920715895,9
+W4 per-channel,model.layers.9.self_attn.k_proj,k_proj,15.583125929222525,9
+W4 per-channel,model.layers.9.self_attn.v_proj,v_proj,17.336768085892572,9
+W4 per-channel,model.layers.9.self_attn.o_proj,o_proj,16.31504670102022,9
+W4 per-channel,model.layers.9.mlp.gate_proj,gate_proj,17.1748209087534,9
+W4 per-channel,model.layers.9.mlp.up_proj,up_proj,17.061528319990636,9
+W4 per-channel,model.layers.9.mlp.down_proj,down_proj,13.875958981727328,9
+W4 per-channel,model.layers.10.self_attn.q_proj,q_proj,16.88824172073566,10
+W4 per-channel,model.layers.10.self_attn.k_proj,k_proj,16.812489551400148,10
+W4 per-channel,model.layers.10.self_attn.v_proj,v_proj,16.47254510951702,10
+W4 per-channel,model.layers.10.self_attn.o_proj,o_proj,16.12864788986166,10
+W4 per-channel,model.layers.10.mlp.gate_proj,gate_proj,17.131578087544504,10
+W4 per-channel,model.layers.10.mlp.up_proj,up_proj,17.002373954981394,10
+W4 per-channel,model.layers.10.mlp.down_proj,down_proj,14.194908645892724,10
+W4 per-channel,model.layers.11.self_attn.q_proj,q_proj,16.32485172407503,11
+W4 per-channel,model.layers.11.self_attn.k_proj,k_proj,15.31470890822921,11
+W4 per-channel,model.layers.11.self_attn.v_proj,v_proj,17.157632944846593,11
+W4 per-channel,model.layers.11.self_attn.o_proj,o_proj,16.204718155188054,11
+W4 per-channel,model.layers.11.mlp.gate_proj,gate_proj,16.96029930851823,11
+W4 per-channel,model.layers.11.mlp.up_proj,up_proj,16.848657395552443,11
+W4 per-channel,model.layers.11.mlp.down_proj,down_proj,13.661627702198532,11
+W4 per-channel,model.layers.12.self_attn.q_proj,q_proj,17.10300496514418,12
+W4 per-channel,model.layers.12.self_attn.k_proj,k_proj,16.942995626414167,12
+W4 per-channel,model.layers.12.self_attn.v_proj,v_proj,16.838068202603715,12
+W4 per-channel,model.layers.12.self_attn.o_proj,o_proj,16.437789830068144,12
+W4 per-channel,model.layers.12.mlp.gate_proj,gate_proj,16.983946993199762,12
+W4 per-channel,model.layers.12.mlp.up_proj,up_proj,17.037928233741198,12
+W4 per-channel,model.layers.12.mlp.down_proj,down_proj,14.71349949760139,12
+W4 per-channel,model.layers.13.self_attn.q_proj,q_proj,16.446381824826425,13
+W4 per-channel,model.layers.13.self_attn.k_proj,k_proj,16.035938582106308,13
+W4 per-channel,model.layers.13.self_attn.v_proj,v_proj,17.30153703892038,13
+W4 per-channel,model.layers.13.self_attn.o_proj,o_proj,16.481791516982614,13
+W4 per-channel,model.layers.13.mlp.gate_proj,gate_proj,16.810234905248407,13
+W4 per-channel,model.layers.13.mlp.up_proj,up_proj,16.946012049144922,13
+W4 per-channel,model.layers.13.mlp.down_proj,down_proj,13.950131725778533,13
+W4 per-channel,model.layers.14.self_attn.q_proj,q_proj,16.428418316896153,14
+W4 per-channel,model.layers.14.self_attn.k_proj,k_proj,16.45897780418788,14
+W4 per-channel,model.layers.14.self_attn.v_proj,v_proj,16.383809374162254,14
+W4 per-channel,model.layers.14.self_attn.o_proj,o_proj,16.548283872206376,14
+W4 per-channel,model.layers.14.mlp.gate_proj,gate_proj,16.6881274387151,14
+W4 per-channel,model.layers.14.mlp.up_proj,up_proj,16.93091419365775,14
+W4 per-channel,model.layers.14.mlp.down_proj,down_proj,13.924838973907733,14
+W4 per-channel,model.layers.15.self_attn.q_proj,q_proj,16.779418786249344,15
+W4 per-channel,model.layers.15.self_attn.k_proj,k_proj,17.15717235475561,15
+W4 per-channel,model.layers.15.self_attn.v_proj,v_proj,16.62849638126537,15
+W4 per-channel,model.layers.15.self_attn.o_proj,o_proj,16.041613234213322,15
+W4 per-channel,model.layers.15.mlp.gate_proj,gate_proj,16.648677349578634,15
+W4 per-channel,model.layers.15.mlp.up_proj,up_proj,16.76361329632297,15
+W4 per-channel,model.layers.15.mlp.down_proj,down_proj,13.871310765812462,15
+W4 per-channel,model.layers.16.self_attn.q_proj,q_proj,16.826039862388402,16
+W4 per-channel,model.layers.16.self_attn.k_proj,k_proj,15.167441516199611,16
+W4 per-channel,model.layers.16.self_attn.v_proj,v_proj,13.080883488280753,16
+W4 per-channel,model.layers.16.self_attn.o_proj,o_proj,15.241146593690393,16
+W4 per-channel,model.layers.16.mlp.gate_proj,gate_proj,16.516635354413864,16
+W4 per-channel,model.layers.16.mlp.up_proj,up_proj,16.616946118695026,16
+W4 per-channel,model.layers.16.mlp.down_proj,down_proj,13.088171242333102,16
+W4 per-channel,model.layers.17.self_attn.q_proj,q_proj,16.672880556420125,17
+W4 per-channel,model.layers.17.self_attn.k_proj,k_proj,16.52244231264561,17
+W4 per-channel,model.layers.17.self_attn.v_proj,v_proj,15.876429698319756,17
+W4 per-channel,model.layers.17.self_attn.o_proj,o_proj,16.51654848924248,17
+W4 per-channel,model.layers.17.mlp.gate_proj,gate_proj,16.935796741191517,17
+W4 per-channel,model.layers.17.mlp.up_proj,up_proj,17.43370022945422,17
+W4 per-channel,model.layers.17.mlp.down_proj,down_proj,14.628566466719846,17
+W4 per-channel,model.layers.18.self_attn.q_proj,q_proj,15.784015041433655,18
+W4 per-channel,model.layers.18.self_attn.k_proj,k_proj,15.166772979506558,18
+W4 per-channel,model.layers.18.self_attn.v_proj,v_proj,17.326902871806265,18
+W4 per-channel,model.layers.18.self_attn.o_proj,o_proj,16.79987650249915,18
+W4 per-channel,model.layers.18.mlp.gate_proj,gate_proj,17.340028455563807,18
+W4 per-channel,model.layers.18.mlp.up_proj,up_proj,17.605206383764664,18
+W4 per-channel,model.layers.18.mlp.down_proj,down_proj,15.289379884150998,18
+W4 per-channel,model.layers.19.self_attn.q_proj,q_proj,17.074996981559035,19
+W4 per-channel,model.layers.19.self_attn.k_proj,k_proj,16.53980250800442,19
+W4 per-channel,model.layers.19.self_attn.v_proj,v_proj,17.290328843243607,19
+W4 per-channel,model.layers.19.self_attn.o_proj,o_proj,16.24959629738281,19
+W4 per-channel,model.layers.19.mlp.gate_proj,gate_proj,16.81868749140094,19
+W4 per-channel,model.layers.19.mlp.up_proj,up_proj,17.095093488704958,19
+W4 per-channel,model.layers.19.mlp.down_proj,down_proj,14.409815007495839,19
+W4 per-channel,model.layers.20.self_attn.q_proj,q_proj,16.584909559456765,20
+W4 per-channel,model.layers.20.self_attn.k_proj,k_proj,16.25923574305738,20
+W4 per-channel,model.layers.20.self_attn.v_proj,v_proj,13.411898972740202,20
+W4 per-channel,model.layers.20.self_attn.o_proj,o_proj,16.17087966468933,20
+W4 per-channel,model.layers.20.mlp.gate_proj,gate_proj,16.838573714765683,20
+W4 per-channel,model.layers.20.mlp.up_proj,up_proj,17.149230956976126,20
+W4 per-channel,model.layers.20.mlp.down_proj,down_proj,14.675615685362446,20
+W4 per-channel,model.layers.21.self_attn.q_proj,q_proj,16.280472782380727,21
+W4 per-channel,model.layers.21.self_attn.k_proj,k_proj,15.494844171408042,21
+W4 per-channel,model.layers.21.self_attn.v_proj,v_proj,14.37875859172732,21
+W4 per-channel,model.layers.21.self_attn.o_proj,o_proj,16.594589951943227,21
+W4 per-channel,model.layers.21.mlp.gate_proj,gate_proj,17.315853287039676,21
+W4 per-channel,model.layers.21.mlp.up_proj,up_proj,17.61437343064385,21
+W4 per-channel,model.layers.21.mlp.down_proj,down_proj,15.41248885411959,21
+W4 per-channel,model.layers.22.self_attn.q_proj,q_proj,16.487514474880296,22
+W4 per-channel,model.layers.22.self_attn.k_proj,k_proj,15.655186166655904,22
+W4 per-channel,model.layers.22.self_attn.v_proj,v_proj,14.358069201605606,22
+W4 per-channel,model.layers.22.self_attn.o_proj,o_proj,17.149567126685426,22
+W4 per-channel,model.layers.22.mlp.gate_proj,gate_proj,17.23017977652759,22
+W4 per-channel,model.layers.22.mlp.up_proj,up_proj,17.35543486986425,22
+W4 per-channel,model.layers.22.mlp.down_proj,down_proj,15.170056130820042,22
+W4 per-channel,model.layers.23.self_attn.q_proj,q_proj,17.050496581346795,23
+W4 per-channel,model.layers.23.self_attn.k_proj,k_proj,16.13446246549107,23
+W4 per-channel,model.layers.23.self_attn.v_proj,v_proj,15.31492832626963,23
+W4 per-channel,model.layers.23.self_attn.o_proj,o_proj,14.767496025840636,23
+W4 per-channel,model.layers.23.mlp.gate_proj,gate_proj,17.53384332490636,23
+W4 per-channel,model.layers.23.mlp.up_proj,up_proj,17.670248211796373,23
+W4 per-channel,model.layers.23.mlp.down_proj,down_proj,15.146921226547253,23
+W4 group-128,model.layers.0.self_attn.q_proj,q_proj,18.923846006636133,0
+W4 group-128,model.layers.0.self_attn.k_proj,k_proj,19.791346988236324,0
+W4 group-128,model.layers.0.self_attn.v_proj,v_proj,19.12573741575631,0
+W4 group-128,model.layers.0.self_attn.o_proj,o_proj,19.146428486556214,0
+W4 group-128,model.layers.0.mlp.gate_proj,gate_proj,19.719441628524123,0
+W4 group-128,model.layers.0.mlp.up_proj,up_proj,19.646903852562545,0
+W4 group-128,model.layers.0.mlp.down_proj,down_proj,19.22472110586137,0
+W4 group-128,model.layers.1.self_attn.q_proj,q_proj,19.60786019490887,1
+W4 group-128,model.layers.1.self_attn.k_proj,k_proj,19.647188265599237,1
+W4 group-128,model.layers.1.self_attn.v_proj,v_proj,18.590182855266917,1
+W4 group-128,model.layers.1.self_attn.o_proj,o_proj,19.52551249584748,1
+W4 group-128,model.layers.1.mlp.gate_proj,gate_proj,19.563424206093785,1
+W4 group-128,model.layers.1.mlp.up_proj,up_proj,19.65626704672953,1
+W4 group-128,model.layers.1.mlp.down_proj,down_proj,19.531985364712956,1
+W4 group-128,model.layers.2.self_attn.q_proj,q_proj,18.98824405738303,2
+W4 group-128,model.layers.2.self_attn.k_proj,k_proj,19.280862969632842,2
+W4 group-128,model.layers.2.self_attn.v_proj,v_proj,17.92601895471694,2
+W4 group-128,model.layers.2.self_attn.o_proj,o_proj,19.31417694464051,2
+W4 group-128,model.layers.2.mlp.gate_proj,gate_proj,19.67175382959368,2
+W4 group-128,model.layers.2.mlp.up_proj,up_proj,19.589914155510264,2
+W4 group-128,model.layers.2.mlp.down_proj,down_proj,19.538148407912225,2
+W4 group-128,model.layers.3.self_attn.q_proj,q_proj,19.075930503877984,3
+W4 group-128,model.layers.3.self_attn.k_proj,k_proj,19.139051937108242,3
+W4 group-128,model.layers.3.self_attn.v_proj,v_proj,19.309291405594504,3
+W4 group-128,model.layers.3.self_attn.o_proj,o_proj,19.349050731768386,3
+W4 group-128,model.layers.3.mlp.gate_proj,gate_proj,19.653961819154844,3
+W4 group-128,model.layers.3.mlp.up_proj,up_proj,19.611846454295716,3
+W4 group-128,model.layers.3.mlp.down_proj,down_proj,19.49909004252587,3
+W4 group-128,model.layers.4.self_attn.q_proj,q_proj,19.475506251871803,4
+W4 group-128,model.layers.4.self_attn.k_proj,k_proj,19.423524348235063,4
+W4 group-128,model.layers.4.self_attn.v_proj,v_proj,19.132680235664225,4
+W4 group-128,model.layers.4.self_attn.o_proj,o_proj,19.190615847072774,4
+W4 group-128,model.layers.4.mlp.gate_proj,gate_proj,19.533094494307747,4
+W4 group-128,model.layers.4.mlp.up_proj,up_proj,19.40426439816157,4
+W4 group-128,model.layers.4.mlp.down_proj,down_proj,19.16225564820725,4
+W4 group-128,model.layers.5.self_attn.q_proj,q_proj,19.39557219290244,5
+W4 group-128,model.layers.5.self_attn.k_proj,k_proj,19.24973551980645,5
+W4 group-128,model.layers.5.self_attn.v_proj,v_proj,19.25445023026974,5
+W4 group-128,model.layers.5.self_attn.o_proj,o_proj,19.567440142314872,5
+W4 group-128,model.layers.5.mlp.gate_proj,gate_proj,19.696248094363558,5
+W4 group-128,model.layers.5.mlp.up_proj,up_proj,19.605818052059373,5
+W4 group-128,model.layers.5.mlp.down_proj,down_proj,19.46181182438344,5
+W4 group-128,model.layers.6.self_attn.q_proj,q_proj,19.36698998536818,6
+W4 group-128,model.layers.6.self_attn.k_proj,k_proj,19.133015909550902,6
+W4 group-128,model.layers.6.self_attn.v_proj,v_proj,19.43973282547553,6
+W4 group-128,model.layers.6.self_attn.o_proj,o_proj,19.38056684645567,6
+W4 group-128,model.layers.6.mlp.gate_proj,gate_proj,19.5157427508432,6
+W4 group-128,model.layers.6.mlp.up_proj,up_proj,19.526623278482703,6
+W4 group-128,model.layers.6.mlp.down_proj,down_proj,19.38855898803139,6
+W4 group-128,model.layers.7.self_attn.q_proj,q_proj,19.172102801660095,7
+W4 group-128,model.layers.7.self_attn.k_proj,k_proj,18.652028221503933,7
+W4 group-128,model.layers.7.self_attn.v_proj,v_proj,19.409765174109776,7
+W4 group-128,model.layers.7.self_attn.o_proj,o_proj,19.270038866008463,7
+W4 group-128,model.layers.7.mlp.gate_proj,gate_proj,19.430154175309916,7
+W4 group-128,model.layers.7.mlp.up_proj,up_proj,19.432994421658776,7
+W4 group-128,model.layers.7.mlp.down_proj,down_proj,18.87101451202943,7
+W4 group-128,model.layers.8.self_attn.q_proj,q_proj,19.312044739108174,8
+W4 group-128,model.layers.8.self_attn.k_proj,k_proj,19.43663931508249,8
+W4 group-128,model.layers.8.self_attn.v_proj,v_proj,18.330100760586113,8
+W4 group-128,model.layers.8.self_attn.o_proj,o_proj,19.266794660867404,8
+W4 group-128,model.layers.8.mlp.gate_proj,gate_proj,19.48795703913589,8
+W4 group-128,model.layers.8.mlp.up_proj,up_proj,19.373610712485068,8
+W4 group-128,model.layers.8.mlp.down_proj,down_proj,19.32906778595829,8
+W4 group-128,model.layers.9.self_attn.q_proj,q_proj,19.215965614349592,9
+W4 group-128,model.layers.9.self_attn.k_proj,k_proj,18.346779720870188,9
+W4 group-128,model.layers.9.self_attn.v_proj,v_proj,19.397630276424273,9
+W4 group-128,model.layers.9.self_attn.o_proj,o_proj,19.293105048428345,9
+W4 group-128,model.layers.9.mlp.gate_proj,gate_proj,19.462917582522245,9
+W4 group-128,model.layers.9.mlp.up_proj,up_proj,19.322831993878435,9
+W4 group-128,model.layers.9.mlp.down_proj,down_proj,18.94881728985941,9
+W4 group-128,model.layers.10.self_attn.q_proj,q_proj,19.325569320488874,10
+W4 group-128,model.layers.10.self_attn.k_proj,k_proj,19.25605742754258,10
+W4 group-128,model.layers.10.self_attn.v_proj,v_proj,18.856023195675263,10
+W4 group-128,model.layers.10.self_attn.o_proj,o_proj,19.25910049198801,10
+W4 group-128,model.layers.10.mlp.gate_proj,gate_proj,19.398052964447878,10
+W4 group-128,model.layers.10.mlp.up_proj,up_proj,19.2983298533272,10
+W4 group-128,model.layers.10.mlp.down_proj,down_proj,19.126896077080037,10
+W4 group-128,model.layers.11.self_attn.q_proj,q_proj,18.862119826601404,11
+W4 group-128,model.layers.11.self_attn.k_proj,k_proj,17.97067161727883,11
+W4 group-128,model.layers.11.self_attn.v_proj,v_proj,19.26772663977164,11
+W4 group-128,model.layers.11.self_attn.o_proj,o_proj,19.255887317573137,11
+W4 group-128,model.layers.11.mlp.gate_proj,gate_proj,19.2721777653715,11
+W4 group-128,model.layers.11.mlp.up_proj,up_proj,19.228186666281566,11
+W4 group-128,model.layers.11.mlp.down_proj,down_proj,18.936242260569664,11
+W4 group-128,model.layers.12.self_attn.q_proj,q_proj,19.461830400763127,12
+W4 group-128,model.layers.12.self_attn.k_proj,k_proj,19.27622153277982,12
+W4 group-128,model.layers.12.self_attn.v_proj,v_proj,19.08293113585268,12
+W4 group-128,model.layers.12.self_attn.o_proj,o_proj,19.343814701642106,12
+W4 group-128,model.layers.12.mlp.gate_proj,gate_proj,19.270303679820206,12
+W4 group-128,model.layers.12.mlp.up_proj,up_proj,19.31744296348591,12
+W4 group-128,model.layers.12.mlp.down_proj,down_proj,19.15803541239024,12
+W4 group-128,model.layers.13.self_attn.q_proj,q_proj,18.842819832708862,13
+W4 group-128,model.layers.13.self_attn.k_proj,k_proj,18.348979858247475,13
+W4 group-128,model.layers.13.self_attn.v_proj,v_proj,19.33329390170379,13
+W4 group-128,model.layers.13.self_attn.o_proj,o_proj,19.59172632164675,13
+W4 group-128,model.layers.13.mlp.gate_proj,gate_proj,19.1878163028219,13
+W4 group-128,model.layers.13.mlp.up_proj,up_proj,19.267282514700657,13
+W4 group-128,model.layers.13.mlp.down_proj,down_proj,18.926237682953804,13
+W4 group-128,model.layers.14.self_attn.q_proj,q_proj,18.983151518620254,14
+W4 group-128,model.layers.14.self_attn.k_proj,k_proj,19.037056313799642,14
+W4 group-128,model.layers.14.self_attn.v_proj,v_proj,18.58038212814121,14
+W4 group-128,model.layers.14.self_attn.o_proj,o_proj,19.281409595356106,14
+W4 group-128,model.layers.14.mlp.gate_proj,gate_proj,19.075330160400433,14
+W4 group-128,model.layers.14.mlp.up_proj,up_proj,19.27970432720835,14
+W4 group-128,model.layers.14.mlp.down_proj,down_proj,19.08232175645747,14
+W4 group-128,model.layers.15.self_attn.q_proj,q_proj,19.25370648860653,15
+W4 group-128,model.layers.15.self_attn.k_proj,k_proj,19.296566288824888,15
+W4 group-128,model.layers.15.self_attn.v_proj,v_proj,19.06911396768666,15
+W4 group-128,model.layers.15.self_attn.o_proj,o_proj,19.320726773959958,15
+W4 group-128,model.layers.15.mlp.gate_proj,gate_proj,19.098690357703852,15
+W4 group-128,model.layers.15.mlp.up_proj,up_proj,19.225901238734096,15
+W4 group-128,model.layers.15.mlp.down_proj,down_proj,18.941998226270716,15
+W4 group-128,model.layers.16.self_attn.q_proj,q_proj,19.094816375722058,16
+W4 group-128,model.layers.16.self_attn.k_proj,k_proj,18.160757031791693,16
+W4 group-128,model.layers.16.self_attn.v_proj,v_proj,15.87542631541931,16
+W4 group-128,model.layers.16.self_attn.o_proj,o_proj,19.261455079874995,16
+W4 group-128,model.layers.16.mlp.gate_proj,gate_proj,18.997216287964026,16
+W4 group-128,model.layers.16.mlp.up_proj,up_proj,19.108574242327443,16
+W4 group-128,model.layers.16.mlp.down_proj,down_proj,18.789975250328204,16
+W4 group-128,model.layers.17.self_attn.q_proj,q_proj,19.2093306116714,17
+W4 group-128,model.layers.17.self_attn.k_proj,k_proj,19.12040047647454,17
+W4 group-128,model.layers.17.self_attn.v_proj,v_proj,18.5874010962131,17
+W4 group-128,model.layers.17.self_attn.o_proj,o_proj,19.310975626056088,17
+W4 group-128,model.layers.17.mlp.gate_proj,gate_proj,19.264546951440387,17
+W4 group-128,model.layers.17.mlp.up_proj,up_proj,19.569298227571053,17
+W4 group-128,model.layers.17.mlp.down_proj,down_proj,19.31880070445369,17
+W4 group-128,model.layers.18.self_attn.q_proj,q_proj,18.57804155628348,18
+W4 group-128,model.layers.18.self_attn.k_proj,k_proj,18.40929465867896,18
+W4 group-128,model.layers.18.self_attn.v_proj,v_proj,19.363099506101367,18
+W4 group-128,model.layers.18.self_attn.o_proj,o_proj,19.450307974337637,18
+W4 group-128,model.layers.18.mlp.gate_proj,gate_proj,19.513140940961865,18
+W4 group-128,model.layers.18.mlp.up_proj,up_proj,19.671364689356675,18
+W4 group-128,model.layers.18.mlp.down_proj,down_proj,19.563310656574714,18
+W4 group-128,model.layers.19.self_attn.q_proj,q_proj,19.42045826738252,19
+W4 group-128,model.layers.19.self_attn.k_proj,k_proj,19.036834382074225,19
+W4 group-128,model.layers.19.self_attn.v_proj,v_proj,19.402853452303223,19
+W4 group-128,model.layers.19.self_attn.o_proj,o_proj,19.37928779953214,19
+W4 group-128,model.layers.19.mlp.gate_proj,gate_proj,19.218376869995897,19
+W4 group-128,model.layers.19.mlp.up_proj,up_proj,19.410435504608103,19
+W4 group-128,model.layers.19.mlp.down_proj,down_proj,19.278817500325562,19
+W4 group-128,model.layers.20.self_attn.q_proj,q_proj,19.046052350375543,20
+W4 group-128,model.layers.20.self_attn.k_proj,k_proj,18.944949341856805,20
+W4 group-128,model.layers.20.self_attn.v_proj,v_proj,16.713798485614667,20
+W4 group-128,model.layers.20.self_attn.o_proj,o_proj,19.348570150473478,20
+W4 group-128,model.layers.20.mlp.gate_proj,gate_proj,19.237809713177242,20
+W4 group-128,model.layers.20.mlp.up_proj,up_proj,19.40882184038549,20
+W4 group-128,model.layers.20.mlp.down_proj,down_proj,19.378114153032072,20
+W4 group-128,model.layers.21.self_attn.q_proj,q_proj,18.92519444987688,21
+W4 group-128,model.layers.21.self_attn.k_proj,k_proj,18.505978410802378,21
+W4 group-128,model.layers.21.self_attn.v_proj,v_proj,17.532109824380896,21
+W4 group-128,model.layers.21.self_attn.o_proj,o_proj,19.525734904549026,21
+W4 group-128,model.layers.21.mlp.gate_proj,gate_proj,19.535462063425385,21
+W4 group-128,model.layers.21.mlp.up_proj,up_proj,19.65928072914451,21
+W4 group-128,model.layers.21.mlp.down_proj,down_proj,19.64723308403085,21
+W4 group-128,model.layers.22.self_attn.q_proj,q_proj,19.065168356899555,22
+W4 group-128,model.layers.22.self_attn.k_proj,k_proj,18.60013574284091,22
+W4 group-128,model.layers.22.self_attn.v_proj,v_proj,17.436641841822244,22
+W4 group-128,model.layers.22.self_attn.o_proj,o_proj,19.652817778218928,22
+W4 group-128,model.layers.22.mlp.gate_proj,gate_proj,19.50186919808951,22
+W4 group-128,model.layers.22.mlp.up_proj,up_proj,19.60294075553234,22
+W4 group-128,model.layers.22.mlp.down_proj,down_proj,19.587401129558984,22
+W4 group-128,model.layers.23.self_attn.q_proj,q_proj,19.280946943094477,23
+W4 group-128,model.layers.23.self_attn.k_proj,k_proj,18.868717190920606,23
+W4 group-128,model.layers.23.self_attn.v_proj,v_proj,18.419758450401,23
+W4 group-128,model.layers.23.self_attn.o_proj,o_proj,18.635175886249332,23
+W4 group-128,model.layers.23.mlp.gate_proj,gate_proj,19.657284727951932,23
+W4 group-128,model.layers.23.mlp.up_proj,up_proj,19.71442401289636,23
+W4 group-128,model.layers.23.mlp.down_proj,down_proj,19.31620359318645,23
+W4 group-128 +clip,model.layers.0.self_attn.q_proj,q_proj,19.399824743217195,0
+W4 group-128 +clip,model.layers.0.self_attn.k_proj,k_proj,20.31776749437517,0
+W4 group-128 +clip,model.layers.0.self_attn.v_proj,v_proj,19.60086699673845,0
+W4 group-128 +clip,model.layers.0.self_attn.o_proj,o_proj,19.619908671474757,0
+W4 group-128 +clip,model.layers.0.mlp.gate_proj,gate_proj,20.203322018056134,0
+W4 group-128 +clip,model.layers.0.mlp.up_proj,up_proj,20.125083686596874,0
+W4 group-128 +clip,model.layers.0.mlp.down_proj,down_proj,19.695590146973267,0
+W4 group-128 +clip,model.layers.1.self_attn.q_proj,q_proj,20.08942033874467,1
+W4 group-128 +clip,model.layers.1.self_attn.k_proj,k_proj,20.124546270207677,1
+W4 group-128 +clip,model.layers.1.self_attn.v_proj,v_proj,19.061963132175,1
+W4 group-128 +clip,model.layers.1.self_attn.o_proj,o_proj,20.00802367469175,1
+W4 group-128 +clip,model.layers.1.mlp.gate_proj,gate_proj,20.040616530498028,1
+W4 group-128 +clip,model.layers.1.mlp.up_proj,up_proj,20.13499846626251,1
+W4 group-128 +clip,model.layers.1.mlp.down_proj,down_proj,20.010205846974447,1
+W4 group-128 +clip,model.layers.2.self_attn.q_proj,q_proj,19.459429384925812,2
+W4 group-128 +clip,model.layers.2.self_attn.k_proj,k_proj,19.767274448501887,2
+W4 group-128 +clip,model.layers.2.self_attn.v_proj,v_proj,18.37279239799871,2
+W4 group-128 +clip,model.layers.2.self_attn.o_proj,o_proj,19.794092438894445,2
+W4 group-128 +clip,model.layers.2.mlp.gate_proj,gate_proj,20.153291551421866,2
+W4 group-128 +clip,model.layers.2.mlp.up_proj,up_proj,20.072879085852122,2
+W4 group-128 +clip,model.layers.2.mlp.down_proj,down_proj,20.014539178166174,2
+W4 group-128 +clip,model.layers.3.self_attn.q_proj,q_proj,19.55158351654006,3
+W4 group-128 +clip,model.layers.3.self_attn.k_proj,k_proj,19.615468716161008,3
+W4 group-128 +clip,model.layers.3.self_attn.v_proj,v_proj,19.78018106821493,3
+W4 group-128 +clip,model.layers.3.self_attn.o_proj,o_proj,19.8090240535705,3
+W4 group-128 +clip,model.layers.3.mlp.gate_proj,gate_proj,20.136002871089218,3
+W4 group-128 +clip,model.layers.3.mlp.up_proj,up_proj,20.090155246611147,3
+W4 group-128 +clip,model.layers.3.mlp.down_proj,down_proj,19.97439321554399,3
+W4 group-128 +clip,model.layers.4.self_attn.q_proj,q_proj,19.960474700438063,4
+W4 group-128 +clip,model.layers.4.self_attn.k_proj,k_proj,19.929529361152877,4
+W4 group-128 +clip,model.layers.4.self_attn.v_proj,v_proj,19.621074084724306,4
+W4 group-128 +clip,model.layers.4.self_attn.o_proj,o_proj,19.664931440309775,4
+W4 group-128 +clip,model.layers.4.mlp.gate_proj,gate_proj,20.01276556177774,4
+W4 group-128 +clip,model.layers.4.mlp.up_proj,up_proj,19.872464956802027,4
+W4 group-128 +clip,model.layers.4.mlp.down_proj,down_proj,19.630398327864782,4
+W4 group-128 +clip,model.layers.5.self_attn.q_proj,q_proj,19.872964168335425,5
+W4 group-128 +clip,model.layers.5.self_attn.k_proj,k_proj,19.721661787318514,5
+W4 group-128 +clip,model.layers.5.self_attn.v_proj,v_proj,19.73817189578196,5
+W4 group-128 +clip,model.layers.5.self_attn.o_proj,o_proj,20.046835765637297,5
+W4 group-128 +clip,model.layers.5.mlp.gate_proj,gate_proj,20.17948205634637,5
+W4 group-128 +clip,model.layers.5.mlp.up_proj,up_proj,20.083921380698282,5
+W4 group-128 +clip,model.layers.5.mlp.down_proj,down_proj,19.940173657532927,5
+W4 group-128 +clip,model.layers.6.self_attn.q_proj,q_proj,19.837457462834642,6
+W4 group-128 +clip,model.layers.6.self_attn.k_proj,k_proj,19.6182582275898,6
+W4 group-128 +clip,model.layers.6.self_attn.v_proj,v_proj,19.92901962718111,6
+W4 group-128 +clip,model.layers.6.self_attn.o_proj,o_proj,19.851887789226705,6
+W4 group-128 +clip,model.layers.6.mlp.gate_proj,gate_proj,19.99063159123574,6
+W4 group-128 +clip,model.layers.6.mlp.up_proj,up_proj,20.002356330533267,6
+W4 group-128 +clip,model.layers.6.mlp.down_proj,down_proj,19.86286438215094,6
+W4 group-128 +clip,model.layers.7.self_attn.q_proj,q_proj,19.647029315705225,7
+W4 group-128 +clip,model.layers.7.self_attn.k_proj,k_proj,19.10691630378637,7
+W4 group-128 +clip,model.layers.7.self_attn.v_proj,v_proj,19.89239732984508,7
+W4 group-128 +clip,model.layers.7.self_attn.o_proj,o_proj,19.74447670483765,7
+W4 group-128 +clip,model.layers.7.mlp.gate_proj,gate_proj,19.903106718868237,7
+W4 group-128 +clip,model.layers.7.mlp.up_proj,up_proj,19.906360596624587,7
+W4 group-128 +clip,model.layers.7.mlp.down_proj,down_proj,19.329276022370458,7
+W4 group-128 +clip,model.layers.8.self_attn.q_proj,q_proj,19.789283764875538,8
+W4 group-128 +clip,model.layers.8.self_attn.k_proj,k_proj,19.904589466283863,8
+W4 group-128 +clip,model.layers.8.self_attn.v_proj,v_proj,18.788524626732855,8
+W4 group-128 +clip,model.layers.8.self_attn.o_proj,o_proj,19.73528545892845,8
+W4 group-128 +clip,model.layers.8.mlp.gate_proj,gate_proj,19.964913456252074,8
+W4 group-128 +clip,model.layers.8.mlp.up_proj,up_proj,19.847703511992503,8
+W4 group-128 +clip,model.layers.8.mlp.down_proj,down_proj,19.80389352558228,8
+W4 group-128 +clip,model.layers.9.self_attn.q_proj,q_proj,19.673909522720272,9
+W4 group-128 +clip,model.layers.9.self_attn.k_proj,k_proj,18.802371574454362,9
+W4 group-128 +clip,model.layers.9.self_attn.v_proj,v_proj,19.851201490051654,9
+W4 group-128 +clip,model.layers.9.self_attn.o_proj,o_proj,19.76938454228883,9
+W4 group-128 +clip,model.layers.9.mlp.gate_proj,gate_proj,19.93978043983723,9
+W4 group-128 +clip,model.layers.9.mlp.up_proj,up_proj,19.794656591189817,9
+W4 group-128 +clip,model.layers.9.mlp.down_proj,down_proj,19.41418054222545,9
+W4 group-128 +clip,model.layers.10.self_attn.q_proj,q_proj,19.79450613000445,10
+W4 group-128 +clip,model.layers.10.self_attn.k_proj,k_proj,19.732879625770536,10
+W4 group-128 +clip,model.layers.10.self_attn.v_proj,v_proj,19.330620391544418,10
+W4 group-128 +clip,model.layers.10.self_attn.o_proj,o_proj,19.742271131575876,10
+W4 group-128 +clip,model.layers.10.mlp.gate_proj,gate_proj,19.870504780822746,10
+W4 group-128 +clip,model.layers.10.mlp.up_proj,up_proj,19.77020143881396,10
+W4 group-128 +clip,model.layers.10.mlp.down_proj,down_proj,19.59801088600795,10
+W4 group-128 +clip,model.layers.11.self_attn.q_proj,q_proj,19.32407635301763,11
+W4 group-128 +clip,model.layers.11.self_attn.k_proj,k_proj,18.418350515092655,11
+W4 group-128 +clip,model.layers.11.self_attn.v_proj,v_proj,19.729377450063133,11
+W4 group-128 +clip,model.layers.11.self_attn.o_proj,o_proj,19.720232109971057,11
+W4 group-128 +clip,model.layers.11.mlp.gate_proj,gate_proj,19.745408115973518,11
+W4 group-128 +clip,model.layers.11.mlp.up_proj,up_proj,19.697379082085618,11
+W4 group-128 +clip,model.layers.11.mlp.down_proj,down_proj,19.400399593962938,11
+W4 group-128 +clip,model.layers.12.self_attn.q_proj,q_proj,19.936259168669867,12
+W4 group-128 +clip,model.layers.12.self_attn.k_proj,k_proj,19.759130626364797,12
+W4 group-128 +clip,model.layers.12.self_attn.v_proj,v_proj,19.556203342852164,12
+W4 group-128 +clip,model.layers.12.self_attn.o_proj,o_proj,19.82772684164592,12
+W4 group-128 +clip,model.layers.12.mlp.gate_proj,gate_proj,19.741436819425957,12
+W4 group-128 +clip,model.layers.12.mlp.up_proj,up_proj,19.79364416386987,12
+W4 group-128 +clip,model.layers.12.mlp.down_proj,down_proj,19.629843137124887,12
+W4 group-128 +clip,model.layers.13.self_attn.q_proj,q_proj,19.29038646826316,13
+W4 group-128 +clip,model.layers.13.self_attn.k_proj,k_proj,18.771613309375333,13
+W4 group-128 +clip,model.layers.13.self_attn.v_proj,v_proj,19.80594581693161,13
+W4 group-128 +clip,model.layers.13.self_attn.o_proj,o_proj,20.080713126126476,13
+W4 group-128 +clip,model.layers.13.mlp.gate_proj,gate_proj,19.66289283771235,13
+W4 group-128 +clip,model.layers.13.mlp.up_proj,up_proj,19.739547489049205,13
+W4 group-128 +clip,model.layers.13.mlp.down_proj,down_proj,19.39463239988995,13
+W4 group-128 +clip,model.layers.14.self_attn.q_proj,q_proj,19.451069570346192,14
+W4 group-128 +clip,model.layers.14.self_attn.k_proj,k_proj,19.518182707045995,14
+W4 group-128 +clip,model.layers.14.self_attn.v_proj,v_proj,19.04043073296365,14
+W4 group-128 +clip,model.layers.14.self_attn.o_proj,o_proj,19.75654946407865,14
+W4 group-128 +clip,model.layers.14.mlp.gate_proj,gate_proj,19.536859376494895,14
+W4 group-128 +clip,model.layers.14.mlp.up_proj,up_proj,19.750978660897296,14
+W4 group-128 +clip,model.layers.14.mlp.down_proj,down_proj,19.550553347072416,14
+W4 group-128 +clip,model.layers.15.self_attn.q_proj,q_proj,19.724482831028325,15
+W4 group-128 +clip,model.layers.15.self_attn.k_proj,k_proj,19.760153420688017,15
+W4 group-128 +clip,model.layers.15.self_attn.v_proj,v_proj,19.538355629061645,15
+W4 group-128 +clip,model.layers.15.self_attn.o_proj,o_proj,19.78673380421987,15
+W4 group-128 +clip,model.layers.15.mlp.gate_proj,gate_proj,19.564998583654475,15
+W4 group-128 +clip,model.layers.15.mlp.up_proj,up_proj,19.697605610904958,15
+W4 group-128 +clip,model.layers.15.mlp.down_proj,down_proj,19.4072719846843,15
+W4 group-128 +clip,model.layers.16.self_attn.q_proj,q_proj,19.557669097334266,16
+W4 group-128 +clip,model.layers.16.self_attn.k_proj,k_proj,18.585275429798827,16
+W4 group-128 +clip,model.layers.16.self_attn.v_proj,v_proj,16.2697734076743,16
+W4 group-128 +clip,model.layers.16.self_attn.o_proj,o_proj,19.74320445055628,16
+W4 group-128 +clip,model.layers.16.mlp.gate_proj,gate_proj,19.464782242105443,16
+W4 group-128 +clip,model.layers.16.mlp.up_proj,up_proj,19.577029848526735,16
+W4 group-128 +clip,model.layers.16.mlp.down_proj,down_proj,19.242310514882778,16
+W4 group-128 +clip,model.layers.17.self_attn.q_proj,q_proj,19.680297977743383,17
+W4 group-128 +clip,model.layers.17.self_attn.k_proj,k_proj,19.612350627416603,17
+W4 group-128 +clip,model.layers.17.self_attn.v_proj,v_proj,19.03847216270342,17
+W4 group-128 +clip,model.layers.17.self_attn.o_proj,o_proj,19.789000861564872,17
+W4 group-128 +clip,model.layers.17.mlp.gate_proj,gate_proj,19.734279685146458,17
+W4 group-128 +clip,model.layers.17.mlp.up_proj,up_proj,20.05037168342428,17
+W4 group-128 +clip,model.layers.17.mlp.down_proj,down_proj,19.796139900372033,17
+W4 group-128 +clip,model.layers.18.self_attn.q_proj,q_proj,19.039894399138607,18
+W4 group-128 +clip,model.layers.18.self_attn.k_proj,k_proj,18.88541352950776,18
+W4 group-128 +clip,model.layers.18.self_attn.v_proj,v_proj,19.852783034082535,18
+W4 group-128 +clip,model.layers.18.self_attn.o_proj,o_proj,19.92690552781907,18
+W4 group-128 +clip,model.layers.18.mlp.gate_proj,gate_proj,19.991999320041025,18
+W4 group-128 +clip,model.layers.18.mlp.up_proj,up_proj,20.151755579340325,18
+W4 group-128 +clip,model.layers.18.mlp.down_proj,down_proj,20.040621211322378,18
+W4 group-128 +clip,model.layers.19.self_attn.q_proj,q_proj,19.892888439811028,19
+W4 group-128 +clip,model.layers.19.self_attn.k_proj,k_proj,19.528754997602476,19
+W4 group-128 +clip,model.layers.19.self_attn.v_proj,v_proj,19.86395775594124,19
+W4 group-128 +clip,model.layers.19.self_attn.o_proj,o_proj,19.858424301564256,19
+W4 group-128 +clip,model.layers.19.mlp.gate_proj,gate_proj,19.68445940759194,19
+W4 group-128 +clip,model.layers.19.mlp.up_proj,up_proj,19.886016524125438,19
+W4 group-128 +clip,model.layers.19.mlp.down_proj,down_proj,19.752480582470874,19
+W4 group-128 +clip,model.layers.20.self_attn.q_proj,q_proj,19.512115083778575,20
+W4 group-128 +clip,model.layers.20.self_attn.k_proj,k_proj,19.41496244228652,20
+W4 group-128 +clip,model.layers.20.self_attn.v_proj,v_proj,17.130007592134596,20
+W4 group-128 +clip,model.layers.20.self_attn.o_proj,o_proj,19.827144384993595,20
+W4 group-128 +clip,model.layers.20.mlp.gate_proj,gate_proj,19.710817885055782,20
+W4 group-128 +clip,model.layers.20.mlp.up_proj,up_proj,19.88154339633592,20
+W4 group-128 +clip,model.layers.20.mlp.down_proj,down_proj,19.84631169253913,20
+W4 group-128 +clip,model.layers.21.self_attn.q_proj,q_proj,19.382655887762336,21
+W4 group-128 +clip,model.layers.21.self_attn.k_proj,k_proj,18.937861593738187,21
+W4 group-128 +clip,model.layers.21.self_attn.v_proj,v_proj,17.951568335288645,21
+W4 group-128 +clip,model.layers.21.self_attn.o_proj,o_proj,20.012421212434774,21
+W4 group-128 +clip,model.layers.21.mlp.gate_proj,gate_proj,20.01271224347773,21
+W4 group-128 +clip,model.layers.21.mlp.up_proj,up_proj,20.141251873019385,21
+W4 group-128 +clip,model.layers.21.mlp.down_proj,down_proj,20.124995035575097,21
+W4 group-128 +clip,model.layers.22.self_attn.q_proj,q_proj,19.53208393863367,22
+W4 group-128 +clip,model.layers.22.self_attn.k_proj,k_proj,19.0562414385266,22
+W4 group-128 +clip,model.layers.22.self_attn.v_proj,v_proj,17.864715054400136,22
+W4 group-128 +clip,model.layers.22.self_attn.o_proj,o_proj,20.142478099428335,22
+W4 group-128 +clip,model.layers.22.mlp.gate_proj,gate_proj,19.977838366380766,22
+W4 group-128 +clip,model.layers.22.mlp.up_proj,up_proj,20.081824848772733,22
+W4 group-128 +clip,model.layers.22.mlp.down_proj,down_proj,20.065544230632362,22
+W4 group-128 +clip,model.layers.23.self_attn.q_proj,q_proj,19.761648623124188,23
+W4 group-128 +clip,model.layers.23.self_attn.k_proj,k_proj,19.318241900285294,23
+W4 group-128 +clip,model.layers.23.self_attn.v_proj,v_proj,18.880620635114543,23
+W4 group-128 +clip,model.layers.23.self_attn.o_proj,o_proj,19.080785187729084,23
+W4 group-128 +clip,model.layers.23.mlp.gate_proj,gate_proj,20.138602798843827,23
+W4 group-128 +clip,model.layers.23.mlp.up_proj,up_proj,20.19545824293425,23
+W4 group-128 +clip,model.layers.23.mlp.down_proj,down_proj,19.79349344927424,23
+W2 group-64,model.layers.0.self_attn.q_proj,q_proj,6.30109206718882,0
+W2 group-64,model.layers.0.self_attn.k_proj,k_proj,6.747427512338592,0
+W2 group-64,model.layers.0.self_attn.v_proj,v_proj,6.305287231206835,0
+W2 group-64,model.layers.0.self_attn.o_proj,o_proj,6.552159627280647,0
+W2 group-64,model.layers.0.mlp.gate_proj,gate_proj,6.7019483040381855,0
+W2 group-64,model.layers.0.mlp.up_proj,up_proj,6.6578271467367545,0
+W2 group-64,model.layers.0.mlp.down_proj,down_proj,6.474859714706772,0
+W2 group-64,model.layers.1.self_attn.q_proj,q_proj,6.603289667711961,1
+W2 group-64,model.layers.1.self_attn.k_proj,k_proj,6.616821091972752,1
+W2 group-64,model.layers.1.self_attn.v_proj,v_proj,6.119699342303831,1
+W2 group-64,model.layers.1.self_attn.o_proj,o_proj,6.730485480189847,1
+W2 group-64,model.layers.1.mlp.gate_proj,gate_proj,6.625280731189801,1
+W2 group-64,model.layers.1.mlp.up_proj,up_proj,6.651174900298694,1
+W2 group-64,model.layers.1.mlp.down_proj,down_proj,6.589985983208192,1
+W2 group-64,model.layers.2.self_attn.q_proj,q_proj,6.318132862675919,2
+W2 group-64,model.layers.2.self_attn.k_proj,k_proj,6.392302382259598,2
+W2 group-64,model.layers.2.self_attn.v_proj,v_proj,5.946149740221829,2
+W2 group-64,model.layers.2.self_attn.o_proj,o_proj,6.62980382948298,2
+W2 group-64,model.layers.2.mlp.gate_proj,gate_proj,6.679497828649317,2
+W2 group-64,model.layers.2.mlp.up_proj,up_proj,6.654208057854576,2
+W2 group-64,model.layers.2.mlp.down_proj,down_proj,6.617381122143198,2
+W2 group-64,model.layers.3.self_attn.q_proj,q_proj,6.358404375213467,3
+W2 group-64,model.layers.3.self_attn.k_proj,k_proj,6.348840033615963,3
+W2 group-64,model.layers.3.self_attn.v_proj,v_proj,6.504042382680843,3
+W2 group-64,model.layers.3.self_attn.o_proj,o_proj,6.594962994601267,3
+W2 group-64,model.layers.3.mlp.gate_proj,gate_proj,6.657343364740793,3
+W2 group-64,model.layers.3.mlp.up_proj,up_proj,6.6440025816774995,3
+W2 group-64,model.layers.3.mlp.down_proj,down_proj,6.58256205510563,3
+W2 group-64,model.layers.4.self_attn.q_proj,q_proj,6.531833330848098,4
+W2 group-64,model.layers.4.self_attn.k_proj,k_proj,6.4700369740460815,4
+W2 group-64,model.layers.4.self_attn.v_proj,v_proj,6.378727325894708,4
+W2 group-64,model.layers.4.self_attn.o_proj,o_proj,6.569750452634731,4
+W2 group-64,model.layers.4.mlp.gate_proj,gate_proj,6.59908469320931,4
+W2 group-64,model.layers.4.mlp.up_proj,up_proj,6.592309326144148,4
+W2 group-64,model.layers.4.mlp.down_proj,down_proj,6.471432927582224,4
+W2 group-64,model.layers.5.self_attn.q_proj,q_proj,6.48634831685896,5
+W2 group-64,model.layers.5.self_attn.k_proj,k_proj,6.401672901761209,5
+W2 group-64,model.layers.5.self_attn.v_proj,v_proj,6.457073098031955,5
+W2 group-64,model.layers.5.self_attn.o_proj,o_proj,6.719640373452655,5
+W2 group-64,model.layers.5.mlp.gate_proj,gate_proj,6.675362229140385,5
+W2 group-64,model.layers.5.mlp.up_proj,up_proj,6.641967135520624,5
+W2 group-64,model.layers.5.mlp.down_proj,down_proj,6.551118220208068,5
+W2 group-64,model.layers.6.self_attn.q_proj,q_proj,6.497970696855263,6
+W2 group-64,model.layers.6.self_attn.k_proj,k_proj,6.3361076744456435,6
+W2 group-64,model.layers.6.self_attn.v_proj,v_proj,6.522410104882292,6
+W2 group-64,model.layers.6.self_attn.o_proj,o_proj,6.6518638257997145,6
+W2 group-64,model.layers.6.mlp.gate_proj,gate_proj,6.652142269314968,6
+W2 group-64,model.layers.6.mlp.up_proj,up_proj,6.615078907363229,6
+W2 group-64,model.layers.6.mlp.down_proj,down_proj,6.532065517598783,6
+W2 group-64,model.layers.7.self_attn.q_proj,q_proj,6.409131614873579,7
+W2 group-64,model.layers.7.self_attn.k_proj,k_proj,6.21297395644829,7
+W2 group-64,model.layers.7.self_attn.v_proj,v_proj,6.555997093974586,7
+W2 group-64,model.layers.7.self_attn.o_proj,o_proj,6.704214961925193,7
+W2 group-64,model.layers.7.mlp.gate_proj,gate_proj,6.601407467234925,7
+W2 group-64,model.layers.7.mlp.up_proj,up_proj,6.564763769230088,7
+W2 group-64,model.layers.7.mlp.down_proj,down_proj,6.314451816579007,7
+W2 group-64,model.layers.8.self_attn.q_proj,q_proj,6.596191150856962,8
+W2 group-64,model.layers.8.self_attn.k_proj,k_proj,6.5245606887889105,8
+W2 group-64,model.layers.8.self_attn.v_proj,v_proj,6.14264317938053,8
+W2 group-64,model.layers.8.self_attn.o_proj,o_proj,6.691998261000675,8
+W2 group-64,model.layers.8.mlp.gate_proj,gate_proj,6.608782027304044,8
+W2 group-64,model.layers.8.mlp.up_proj,up_proj,6.573279180816978,8
+W2 group-64,model.layers.8.mlp.down_proj,down_proj,6.478546044606389,8
+W2 group-64,model.layers.9.self_attn.q_proj,q_proj,6.564058983344481,9
+W2 group-64,model.layers.9.self_attn.k_proj,k_proj,6.315756426113346,9
+W2 group-64,model.layers.9.self_attn.v_proj,v_proj,6.556094159149557,9
+W2 group-64,model.layers.9.self_attn.o_proj,o_proj,6.617885639727424,9
+W2 group-64,model.layers.9.mlp.gate_proj,gate_proj,6.5435663918392155,9
+W2 group-64,model.layers.9.mlp.up_proj,up_proj,6.518386712085392,9
+W2 group-64,model.layers.9.mlp.down_proj,down_proj,6.26992975039144,9
+W2 group-64,model.layers.10.self_attn.q_proj,q_proj,6.447108569597903,10
+W2 group-64,model.layers.10.self_attn.k_proj,k_proj,6.391689798848664,10
+W2 group-64,model.layers.10.self_attn.v_proj,v_proj,6.224579523855579,10
+W2 group-64,model.layers.10.self_attn.o_proj,o_proj,6.70135276188462,10
+W2 group-64,model.layers.10.mlp.gate_proj,gate_proj,6.560873342751352,10
+W2 group-64,model.layers.10.mlp.up_proj,up_proj,6.540041086928836,10
+W2 group-64,model.layers.10.mlp.down_proj,down_proj,6.409605565926042,10
+W2 group-64,model.layers.11.self_attn.q_proj,q_proj,6.330964839513985,11
+W2 group-64,model.layers.11.self_attn.k_proj,k_proj,6.134597381553819,11
+W2 group-64,model.layers.11.self_attn.v_proj,v_proj,6.465581128734769,11
+W2 group-64,model.layers.11.self_attn.o_proj,o_proj,6.627343107433753,11
+W2 group-64,model.layers.11.mlp.gate_proj,gate_proj,6.467460525720613,11
+W2 group-64,model.layers.11.mlp.up_proj,up_proj,6.483658202391924,11
+W2 group-64,model.layers.11.mlp.down_proj,down_proj,6.30535006446422,11
+W2 group-64,model.layers.12.self_attn.q_proj,q_proj,6.518282183327263,12
+W2 group-64,model.layers.12.self_attn.k_proj,k_proj,6.447777311788576,12
+W2 group-64,model.layers.12.self_attn.v_proj,v_proj,6.352147506865576,12
+W2 group-64,model.layers.12.self_attn.o_proj,o_proj,6.640179783065413,12
+W2 group-64,model.layers.12.mlp.gate_proj,gate_proj,6.454901993767544,12
+W2 group-64,model.layers.12.mlp.up_proj,up_proj,6.48709265998648,12
+W2 group-64,model.layers.12.mlp.down_proj,down_proj,6.3786109890383225,12
+W2 group-64,model.layers.13.self_attn.q_proj,q_proj,6.486284686229752,13
+W2 group-64,model.layers.13.self_attn.k_proj,k_proj,6.512651133579341,13
+W2 group-64,model.layers.13.self_attn.v_proj,v_proj,6.485996795490033,13
+W2 group-64,model.layers.13.self_attn.o_proj,o_proj,6.701257026490579,13
+W2 group-64,model.layers.13.mlp.gate_proj,gate_proj,6.418443581606433,13
+W2 group-64,model.layers.13.mlp.up_proj,up_proj,6.446022437092584,13
+W2 group-64,model.layers.13.mlp.down_proj,down_proj,6.263470102108203,13
+W2 group-64,model.layers.14.self_attn.q_proj,q_proj,6.264593857473521,14
+W2 group-64,model.layers.14.self_attn.k_proj,k_proj,6.287909057691611,14
+W2 group-64,model.layers.14.self_attn.v_proj,v_proj,6.260999362279537,14
+W2 group-64,model.layers.14.self_attn.o_proj,o_proj,6.67590389078594,14
+W2 group-64,model.layers.14.mlp.gate_proj,gate_proj,6.4563883815884235,14
+W2 group-64,model.layers.14.mlp.up_proj,up_proj,6.498800240877946,14
+W2 group-64,model.layers.14.mlp.down_proj,down_proj,6.3884822080967805,14
+W2 group-64,model.layers.15.self_attn.q_proj,q_proj,6.4121090422784635,15
+W2 group-64,model.layers.15.self_attn.k_proj,k_proj,6.389604980869644,15
+W2 group-64,model.layers.15.self_attn.v_proj,v_proj,6.346479955073897,15
+W2 group-64,model.layers.15.self_attn.o_proj,o_proj,6.731361175157642,15
+W2 group-64,model.layers.15.mlp.gate_proj,gate_proj,6.455548748500776,15
+W2 group-64,model.layers.15.mlp.up_proj,up_proj,6.4861901820756,15
+W2 group-64,model.layers.15.mlp.down_proj,down_proj,6.353523999713193,15
+W2 group-64,model.layers.16.self_attn.q_proj,q_proj,6.56143132187634,16
+W2 group-64,model.layers.16.self_attn.k_proj,k_proj,6.1832956342640975,16
+W2 group-64,model.layers.16.self_attn.v_proj,v_proj,6.2078529943737815,16
+W2 group-64,model.layers.16.self_attn.o_proj,o_proj,6.896258794824194,16
+W2 group-64,model.layers.16.mlp.gate_proj,gate_proj,6.379271549947378,16
+W2 group-64,model.layers.16.mlp.up_proj,up_proj,6.462856141561008,16
+W2 group-64,model.layers.16.mlp.down_proj,down_proj,6.364150960795211,16
+W2 group-64,model.layers.17.self_attn.q_proj,q_proj,6.49002521886545,17
+W2 group-64,model.layers.17.self_attn.k_proj,k_proj,6.377346096995563,17
+W2 group-64,model.layers.17.self_attn.v_proj,v_proj,6.13543173262907,17
+W2 group-64,model.layers.17.self_attn.o_proj,o_proj,6.638477668822195,17
+W2 group-64,model.layers.17.mlp.gate_proj,gate_proj,6.462620702404108,17
+W2 group-64,model.layers.17.mlp.up_proj,up_proj,6.59049689695808,17
+W2 group-64,model.layers.17.mlp.down_proj,down_proj,6.483835483616001,17
+W2 group-64,model.layers.18.self_attn.q_proj,q_proj,6.341026273891533,18
+W2 group-64,model.layers.18.self_attn.k_proj,k_proj,6.155535667998864,18
+W2 group-64,model.layers.18.self_attn.v_proj,v_proj,6.592583340330888,18
+W2 group-64,model.layers.18.self_attn.o_proj,o_proj,6.707964041076404,18
+W2 group-64,model.layers.18.mlp.gate_proj,gate_proj,6.592540866370184,18
+W2 group-64,model.layers.18.mlp.up_proj,up_proj,6.6434139228593185,18
+W2 group-64,model.layers.18.mlp.down_proj,down_proj,6.593252061650281,18
+W2 group-64,model.layers.19.self_attn.q_proj,q_proj,6.518794073282425,19
+W2 group-64,model.layers.19.self_attn.k_proj,k_proj,6.297012985284701,19
+W2 group-64,model.layers.19.self_attn.v_proj,v_proj,6.523682137592184,19
+W2 group-64,model.layers.19.self_attn.o_proj,o_proj,6.672464315246925,19
+W2 group-64,model.layers.19.mlp.gate_proj,gate_proj,6.520138851152174,19
+W2 group-64,model.layers.19.mlp.up_proj,up_proj,6.578842537012109,19
+W2 group-64,model.layers.19.mlp.down_proj,down_proj,6.498125554635413,19
+W2 group-64,model.layers.20.self_attn.q_proj,q_proj,6.5547217397064825,20
+W2 group-64,model.layers.20.self_attn.k_proj,k_proj,6.4290560703276505,20
+W2 group-64,model.layers.20.self_attn.v_proj,v_proj,5.498342288087499,20
+W2 group-64,model.layers.20.self_attn.o_proj,o_proj,6.707355348956464,20
+W2 group-64,model.layers.20.mlp.gate_proj,gate_proj,6.482844214805555,20
+W2 group-64,model.layers.20.mlp.up_proj,up_proj,6.570846510726255,20
+W2 group-64,model.layers.20.mlp.down_proj,down_proj,6.551760544543135,20
+W2 group-64,model.layers.21.self_attn.q_proj,q_proj,6.548725470641403,21
+W2 group-64,model.layers.21.self_attn.k_proj,k_proj,6.236769893124134,21
+W2 group-64,model.layers.21.self_attn.v_proj,v_proj,5.5888856043084285,21
+W2 group-64,model.layers.21.self_attn.o_proj,o_proj,6.815653066007263,21
+W2 group-64,model.layers.21.mlp.gate_proj,gate_proj,6.612694271254783,21
+W2 group-64,model.layers.21.mlp.up_proj,up_proj,6.650505036299973,21
+W2 group-64,model.layers.21.mlp.down_proj,down_proj,6.661814640474129,21
+W2 group-64,model.layers.22.self_attn.q_proj,q_proj,6.5288422547994065,22
+W2 group-64,model.layers.22.self_attn.k_proj,k_proj,6.2273365043899185,22
+W2 group-64,model.layers.22.self_attn.v_proj,v_proj,5.510585973338086,22
+W2 group-64,model.layers.22.self_attn.o_proj,o_proj,6.779673861078108,22
+W2 group-64,model.layers.22.mlp.gate_proj,gate_proj,6.6052957353297455,22
+W2 group-64,model.layers.22.mlp.up_proj,up_proj,6.658710039096505,22
+W2 group-64,model.layers.22.mlp.down_proj,down_proj,6.6275554890584925,22
+W2 group-64,model.layers.23.self_attn.q_proj,q_proj,6.588427448315118,23
+W2 group-64,model.layers.23.self_attn.k_proj,k_proj,6.258467059592543,23
+W2 group-64,model.layers.23.self_attn.v_proj,v_proj,6.0086906764605015,23
+W2 group-64,model.layers.23.self_attn.o_proj,o_proj,6.665069004086176,23
+W2 group-64,model.layers.23.mlp.gate_proj,gate_proj,6.661095359118116,23
+W2 group-64,model.layers.23.mlp.up_proj,up_proj,6.673304406193755,23
+W2 group-64,model.layers.23.mlp.down_proj,down_proj,6.485604691261714,23
